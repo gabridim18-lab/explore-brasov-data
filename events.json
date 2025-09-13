@@ -22,5 +22,16 @@
       "descriptionEn": "Symphonic concert featuring works by Beethoven and Mozart.",
       "image": "event_concert"
     }
+    {
+      "titleRo": "Târgul de Crăciun",
+      "titleEn": "Christmas Market",
+      "date": "01.12.2024",
+      "time": "all day",
+      "locationRo": "Piața Sfatului",
+      "locationEn": "Council Square",
+      "descriptionRo": "Căsuțe tradiționale, cadouri și delicii culinare pentru toată familia.",
+      "descriptionEn": "Traditional wooden stalls, gifts, and culinary delights for the whole family.",
+      "image": "https://brasovstiri.ro/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-20-at-15.57.09-768x512.jpg"
+    }
   ]
 }
