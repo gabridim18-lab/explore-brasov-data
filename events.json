@@ -1,0 +1,26 @@
+{
+  "events": [
+    {
+      "titleRo": "Festivalul Vinului",
+      "titleEn": "Wine Festival",
+      "date": "2025-11-25",
+      "time": "18:00",
+      "locationRo": "Piața Sfatului",
+      "locationEn": "Council Square",
+      "descriptionRo": "Degustare de vinuri din Transilvania, muzică live și atmosferă tradițională.",
+      "descriptionEn": "Wine tasting from Transylvania, live music and traditional atmosphere.",
+      "image": "event_vin"
+    },
+    {
+      "titleRo": "Concert Filarmonica",
+      "titleEn": "Philharmonic Concert",
+      "date": "2025-11-28",
+      "time": "19:30",
+      "locationRo": "Sala Patria",
+      "locationEn": "Patria Hall",
+      "descriptionRo": "Concert simfonic cu lucrări de Beethoven și Mozart.",
+      "descriptionEn": "Symphonic concert featuring works by Beethoven and Mozart.",
+      "image": "event_concert"
+    }
+  ]
+}
