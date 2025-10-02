@@ -1,14 +1,14 @@
 {
   "events": [
     {
-      "titleRo": "Festivalul Vinului",
-      "titleEn": "Wine Festival",
-      "date": "2025-11-25",
-      "time": "18:00",
-      "locationRo": "Piața Sfatului",
-      "locationEn": "Council Square",
-      "descriptionRo": "Degustare de vinuri din Transilvania, muzică live și atmosferă tradițională.",
-      "descriptionEn": "Wine tasting from Transylvania, live music and traditional atmosphere.",
+      "titleRo": "Festivalul Plăcintelor",
+      "titleEn": "Pie Festival",
+      "date": "24-26 octombrie 2025",
+      "time": "10:00 - 20:00",
+      "locationRo": "Lacul Noua",
+      "locationEn": "Noua Lake",
+      "descriptionRo": "🎉 Festivalul Plăcintelor revine la Brașov! 📅 24–26 octombrie • 📍 Lacul Noua\n\nEdiția a doua a Festivalului Plăcintelor promite trei zile pline de savoare și voie bună!\n🍴 Te așteaptă plăcinte moldovenești și poale-n brâu, alivenci aurii, clătite rumenite, langoși ardelenești, kürtőskalács, dar și delicii cu dovleac.\n🎃 Pregătește-te și pentru maratonul de sculptat dovleci!\n\nProgramul include:\n✨ ateliere creative\n🎭 teatru de păpuși\n🎪 magicieni, jongleri și fachiri\n🛍️ shopping urban\n🎶 muzică live\n\nVino să te bucuri de gusturi autentice și distracție pentru toată familia!",
+      "descriptionEn": "🎉 The Pie Festival returns to Brașov! 📅 October 24–26 • 📍 Noua Lake\n\nThe second edition of the Pie Festival brings three delicious and fun-filled days!\n🍴 Enjoy Moldavian pies and poale-n brâu, golden alivenci, fluffy pancakes, Transylvanian langoși, kürtőskalács, and seasonal pumpkin treats.\n🎃 Don’t miss the Pumpkin Carving Marathon!\n\nThe program features:\n✨ creative workshops\n🎭 puppet theater\n🎪 magicians, jugglers & fakirs\n🛍️ urban shopping\n🎶 live music\n\nCome and taste authentic flavors while enjoying entertainment for the whole family!",
       "image": "event_vin"
     },
     {
