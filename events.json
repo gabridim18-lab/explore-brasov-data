@@ -1,14 +1,14 @@
 {
   "events": [
     {
-      "titleRo": "Festivalul Plăcintelor",
-      "titleEn": "Pie Festival",
-      "date": "24-26 octombrie 2025",
-      "time": "10:00 - 20:00",
-      "locationRo": "Lacul Noua",
-      "locationEn": "Noua Lake",
-      "descriptionRo": "🎉 Festivalul Plăcintelor revine la Brașov! 📅 24–26 octombrie • 📍 Lacul Noua\n\nEdiția a doua a Festivalului Plăcintelor promite trei zile pline de savoare și voie bună!\n🍴 Te așteaptă plăcinte moldovenești și poale-n brâu, alivenci aurii, clătite rumenite, langoși ardelenești, kürtőskalács, dar și delicii cu dovleac.\n🎃 Pregătește-te și pentru maratonul de sculptat dovleci!\n\nProgramul include:\n✨ ateliere creative\n🎭 teatru de păpuși\n🎪 magicieni, jongleri și fachiri\n🛍️ shopping urban\n🎶 muzică live\n\nVino să te bucuri de gusturi autentice și distracție pentru toată familia!",
-      "descriptionEn": "🎉 The Pie Festival returns to Brașov! 📅 October 24–26 • 📍 Noua Lake\n\nThe second edition of the Pie Festival brings three delicious and fun-filled days!\n🍴 Enjoy Moldavian pies and poale-n brâu, golden alivenci, fluffy pancakes, Transylvanian langoși, kürtőskalács, and seasonal pumpkin treats.\n🎃 Don’t miss the Pumpkin Carving Marathon!\n\nThe program features:\n✨ creative workshops\n🎭 puppet theater\n🎪 magicians, jugglers & fakirs\n🛍️ urban shopping\n🎶 live music\n\nCome and taste authentic flavors while enjoying entertainment for the whole family!",
+      "titleRo": "Gala RXF 51 – MMA cu luptători profesioniști",
+      "titleEn": "Gala RXF 51 – MMA",
+      "date": "9 decembrie 2025",
+      "time": "19:00",
+      "locationRo": "Strada 13 Decembrie 96, Brașov 500116",
+      "locationEn": "No. 96, 13 Decembrie Street, Brașov 500116",
+      "descriptionRo": "Gala RXF 51 aduce în prim-plan meciuri între luptători profesioniști și artiști, influenceri, tiktokeri, pasionați de sportul de contact, oferind publicului o seară plină de adrenalină și spectacol inedit. Fiecare luptă promite să fie un adevărat show, combinând tehnica MMA cu energia și carisma influencerilor din mediul online.",
+      "descriptionEn": "RXF Gala 51 brings to the forefront matches between professional fighters and artists, influencers, TikTokers, and combat-sport enthusiasts, offering the audience an evening full of adrenaline and unique spectacle. Each fight promises to be a true show, combining MMA technique with the energy and charisma of online influencers.",
       "image": "https://raw.githubusercontent.com/gabridim18-lab/explore-brasov-data/refs/heads/main/festivalplacinte.webp"
     },
     {
