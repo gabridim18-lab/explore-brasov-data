@@ -88,6 +88,35 @@
       "partner": false,
       "featured": false,
       "active": true
+    },
+
+    {
+      "id": "tampa",
+      "slug": "tampa",
+
+      "name": {
+        "ro": "Tâmpa",
+        "en": "Tâmpa Mountain",
+        "de": "Tâmpa-Berg"
+      },
+
+      "category": "mountain",
+
+      "cover": "tampa/cover.webp",
+
+      "location": {
+        "latitude": 45.6340695,
+        "longitude": 25.5928472
+      },
+
+      "rating": 4.8,
+
+      "freeEntry": true,
+      "alwaysOpen": null,
+
+      "partner": false,
+      "featured": false,
+      "active": true
     }
   ]
 }
