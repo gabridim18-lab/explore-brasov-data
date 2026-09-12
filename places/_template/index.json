@@ -19,6 +19,7 @@
   },
 
   "openingHours": {
+    "alwaysOpen": null,
     "monday": [],
     "tuesday": [],
     "wednesday": [],
@@ -46,6 +47,7 @@
 
   "priceLevel": null,
   "entryFee": null,
+  "freeEntry": null,
 
   "rating": null,
   "reviewCount": null,
