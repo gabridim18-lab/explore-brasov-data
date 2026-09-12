@@ -1,7 +1,12 @@
 {
   "id": "casa-tudor",
   "slug": "casa-tudor",
-  "name": "Casa Tudor",
+
+  "name": {
+    "ro": "Casa Tudor",
+    "en": "Casa Tudor",
+    "de": "Casa Tudor"
+  },
 
   "type": "restaurant",
   "category": "restaurant",
@@ -71,12 +76,14 @@
 
   "shortDescription": {
     "ro": "Restaurant cu bucătărie românească și internațională, preparate la grătar, carne, pește și fructe de mare, într-o atmosferă relaxată.",
-    "en": "Restaurant serving Romanian and international cuisine, grilled dishes, meat, fish and seafood in a relaxed setting."
+    "en": "Restaurant serving Romanian and international cuisine, grilled dishes, meat, fish and seafood in a relaxed setting.",
+    "de": "Restaurant mit rumänischer und internationaler Küche, Grillgerichten, Fleisch, Fisch und Meeresfrüchten in entspannter Atmosphäre."
   },
 
   "description": {
     "ro": "Casa Tudor este un restaurant din Brașov, parte din Sergiana Grup, cu un meniu care combină bucătăria românească și internațională. Oferta include preparate tradiționale, carne și specialități la grătar, preparate din pește și fructe de mare, alături de salate, supe și deserturi. Restaurantul este potrivit atât pentru familii și grupuri, cât și pentru o masă relaxată în doi și oferă terasă, rezervări și opțiuni pentru diferite preferințe alimentare.",
-    "en": "Casa Tudor is a Brașov restaurant within Sergiana Group, combining Romanian and international cuisine. Its menu includes traditional dishes, grilled meat and specialties, fish and seafood, as well as salads, soups and desserts. The restaurant is suitable for families, groups and relaxed meals for two, with outdoor seating, reservations and options for different dietary preferences."
+    "en": "Casa Tudor is a Brașov restaurant within Sergiana Group, combining Romanian and international cuisine. Its menu includes traditional dishes, grilled meat and specialties, fish and seafood, as well as salads, soups and desserts. The restaurant is suitable for families, groups and relaxed meals for two, with outdoor seating, reservations and options for different dietary preferences.",
+    "de": "Casa Tudor ist ein Restaurant in Brașov und Teil der Sergiana-Gruppe. Die Speisekarte verbindet rumänische und internationale Küche und umfasst traditionelle Gerichte, Fleisch- und Grillspezialitäten, Fisch und Meeresfrüchte sowie Salate, Suppen und Desserts. Das Restaurant eignet sich für Familien, Gruppen und entspannte Essen zu zweit und bietet Außensitzplätze, Reservierungsmöglichkeiten und verschiedene Optionen für unterschiedliche Ernährungsbedürfnisse."
   },
 
   "images": [
@@ -108,7 +115,9 @@
     "beer": true,
     "wine": true,
     "cocktails": null,
-    "vegetarianOptions": true
+    "vegetarianOptions": true,
+    "veganOptions": null,
+    "glutenFreeOptions": null
   },
 
   "suitableFor": {
@@ -122,6 +131,9 @@
     "restroom": null,
     "liveMusic": null,
     "childrensMenu": true,
+    "highchairs": null,
+    "playground": null,
+    "heatedTerrace": null,
     "allowsDogs": true
   },
 
