@@ -1,7 +1,12 @@
 {
   "id": "place-slug",
   "slug": "place-slug",
-  "name": "Place Name",
+
+  "name": {
+    "ro": "Nume locație",
+    "en": "Place Name",
+    "de": "Name des Ortes"
+  },
 
   "type": "place",
   "category": "landmark",
@@ -41,12 +46,14 @@
 
   "shortDescription": {
     "ro": "",
-    "en": ""
+    "en": "",
+    "de": ""
   },
 
   "description": {
     "ro": "",
-    "en": ""
+    "en": "",
+    "de": ""
   },
 
   "images": [
