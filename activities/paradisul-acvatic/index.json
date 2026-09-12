@@ -1,1 +1,189 @@
+{
+  "id": "paradisul-acvatic",
+  "slug": "paradisul-acvatic",
 
+  "name": {
+    "ro": "Paradisul Acvatic",
+    "en": "Aquatic Paradise",
+    "de": "Aquatic Paradise"
+  },
+
+  "type": "activity",
+  "category": "aquatic",
+
+  "google": {
+    "placeId": "ChIJ6y40lcdbs0ARy-oNNLDVM8U",
+    "mapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ6y40lcdbs0ARy-oNNLDVM8U",
+    "lastVerified": "2026-09-12"
+  },
+
+  "location": {
+    "address": "Bulevardul Griviței 2F, 2G, Brașov, România",
+    "latitude": 45.6731436,
+    "longitude": 25.5858594
+  },
+
+  "openingHours": {
+    "alwaysOpen": false,
+    "seasonal": false,
+
+    "monday": [
+      {
+        "open": "14:00",
+        "close": "21:00"
+      }
+    ],
+    "tuesday": [
+      {
+        "open": "11:00",
+        "close": "21:00"
+      }
+    ],
+    "wednesday": [
+      {
+        "open": "11:00",
+        "close": "21:00"
+      }
+    ],
+    "thursday": [
+      {
+        "open": "11:00",
+        "close": "21:00"
+      }
+    ],
+    "friday": [
+      {
+        "open": "11:00",
+        "close": "21:00"
+      }
+    ],
+    "saturday": [
+      {
+        "open": "10:00",
+        "close": "21:00"
+      }
+    ],
+    "sunday": [
+      {
+        "open": "10:00",
+        "close": "21:00"
+      }
+    ],
+
+    "periods": [],
+    "closedDates": []
+  },
+
+  "visitInfo": {
+    "lastEntryMinutesBeforeClose": null,
+    "scheduleMayChangeForEvents": null,
+    "reservationRecommended": null,
+    "reservationRequired": false
+  },
+
+  "shortDescription": {
+    "ro": "Complex acvatic cu piscine interioare și exterioare, tobogane, saune și zone de relaxare, potrivit pentru familii și zile petrecute în Brașov indiferent de vreme.",
+    "en": "Aquatic leisure complex with indoor and outdoor pools, water slides, saunas and relaxation areas, ideal for families and for enjoying Brașov in any weather.",
+    "de": "Freizeit- und Wasserkomplex mit Innen- und Außenbecken, Wasserrutschen, Saunen und Entspannungsbereichen, ideal für Familien und unabhängig vom Wetter."
+  },
+
+  "description": {
+    "ro": "Paradisul Acvatic este unul dintre cele mai cunoscute centre de agrement din Brașov și oferă atât zone interioare, cât și exterioare. Complexul include mai multe piscine, tobogane cu apă, saune, jacuzzi, zone de relaxare, restaurant și facilități pentru copii. Este o alegere potrivită pentru familii, pentru zilele ploioase sau reci, dar și pentru relaxare în sezonul cald, când sunt disponibile și zonele exterioare. La locație există vestiare și dulapuri pentru depozitarea lucrurilor personale, parcare și facilități de accesibilitate.",
+    "en": "Aquatic Paradise is one of Brașov's best-known leisure centres, offering both indoor and outdoor areas. The complex features several swimming pools, water slides, saunas, jacuzzis, relaxation areas, a restaurant and facilities for children. It is a good choice for families, rainy or cold days, as well as for relaxing during the warmer season when the outdoor areas are available. Lockers, parking and accessibility facilities are also available on site.",
+    "de": "Aquatic Paradise ist eines der bekanntesten Freizeitzentren in Brașov und bietet sowohl Innen- als auch Außenbereiche. Der Komplex verfügt über mehrere Schwimmbecken, Wasserrutschen, Saunen, Whirlpools, Entspannungsbereiche, ein Restaurant und Einrichtungen für Kinder. Er eignet sich besonders für Familien, für regnerische oder kalte Tage sowie zur Erholung in der warmen Jahreszeit, wenn auch die Außenbereiche genutzt werden können. Vor Ort stehen außerdem Schließfächer, Parkplätze und barrierefreie Einrichtungen zur Verfügung."
+  },
+
+  "images": [
+    "cover.webp",
+    "image_01.webp",
+    "image_02.webp"
+  ],
+
+  "priceLevel": null,
+
+  "entryFee": {
+    "currency": "RON",
+    "adult": null,
+    "child": null,
+    "student": null,
+    "family": null,
+    "senior": null
+  },
+
+  "pricing": {
+    "lastVerified": null,
+    "packages": []
+  },
+
+  "rating": 4.3,
+  "reviewCount": 13945,
+
+  "activity": {
+    "indoor": true,
+    "outdoor": true,
+    "familyFriendly": true,
+    "goodForChildren": true,
+    "goodForGroups": null,
+    "couples": null,
+    "adventure": true,
+    "relaxation": true,
+    "rainyDay": true,
+    "winter": true,
+    "summer": true
+  },
+
+  "services": {
+    "bookingAvailable": true,
+    "ticketsAvailable": true,
+    "equipmentRental": null,
+    "instructorAvailable": null,
+    "foodAvailable": true
+  },
+
+  "facilities": {
+    "restroom": true,
+    "wifi": null,
+    "locker": true,
+    "changingRoom": null,
+    "shower": null
+  },
+
+  "parking": {
+    "available": true,
+    "freeParkingLot": true,
+    "paidParkingLot": false,
+    "streetParking": null
+  },
+
+  "accessibility": {
+    "wheelchairEntrance": true,
+    "wheelchairParking": true,
+    "wheelchairRestroom": true
+  },
+
+  "website": "https://www.paradisulacvatic.ro/",
+
+  "tags": [
+    "aquatic",
+    "water_park",
+    "swimming",
+    "water_slides",
+    "sauna",
+    "relaxation",
+    "family_friendly",
+    "kids",
+    "indoor",
+    "outdoor",
+    "rainy_day",
+    "winter",
+    "summer",
+    "restaurant",
+    "playground",
+    "free_parking",
+    "accessible"
+  ],
+
+  "partner": false,
+  "featured": false,
+  "active": true
+}
