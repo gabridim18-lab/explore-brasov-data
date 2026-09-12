@@ -6,7 +6,13 @@
     {
       "id": "ceasu-rau",
       "slug": "ceasu-rau",
-      "name": "Ceasu' Rău",
+
+      "name": {
+        "ro": "Ceasu' Rău",
+        "en": "Ceasu' Rău",
+        "de": "Ceasu' Rău"
+      },
+
       "category": "restaurant",
 
       "cuisine": [
@@ -31,7 +37,13 @@
     {
       "id": "casa-tudor",
       "slug": "casa-tudor",
-      "name": "Casa Tudor",
+
+      "name": {
+        "ro": "Casa Tudor",
+        "en": "Casa Tudor",
+        "de": "Casa Tudor"
+      },
+
       "category": "restaurant",
 
       "cuisine": [
@@ -57,7 +69,13 @@
     {
       "id": "chefs-boutique",
       "slug": "chefs-boutique",
-      "name": "Chef's Boutique",
+
+      "name": {
+        "ro": "Chef's Boutique",
+        "en": "Chef's Boutique",
+        "de": "Chef's Boutique"
+      },
+
       "category": "restaurant",
 
       "cuisine": [
@@ -75,178 +93,6 @@
       },
 
       "rating": 4.6,
-
-      "partner": false,
-      "featured": false,
-      "active": true
-    }
-  ]
-}{
-  "version": 1,
-  "updatedAt": "2026-09-12",
-
-  "items": [
-    {
-      "id": "ceasu-rau",
-      "slug": "ceasu-rau",
-      "name": "Ceasu' Rău",
-      "category": "restaurant",
-
-      "cuisine": [
-        "romanian",
-        "grill"
-      ],
-
-      "cover": "ceasu-rau/cover.webp",
-
-      "location": {
-        "latitude": 45.6499965,
-        "longitude": 25.603989
-      },
-
-      "rating": 4.4,
-
-      "partner": false,
-      "featured": false,
-      "active": true
-    },
-
-    {
-      "id": "casa-tudor",
-      "slug": "casa-tudor",
-      "name": "Casa Tudor",
-      "category": "restaurant",
-
-      "cuisine": [
-        "romanian",
-        "international",
-        "grill"
-      ],
-
-      "cover": "casa-tudor/cover.webp",
-
-      "location": {
-        "latitude": 45.6570167,
-        "longitude": 25.5892924
-      },
-
-      "rating": 4.6,
-
-      "partner": false,
-      "featured": false,
-      "active": true
-    },
-
-    {
-      "id": "chefs-boutique",
-      "slug": "chefs-boutique",
-      "name": "Chef's Boutique",
-      "category": "restaurant",
-
-      "cuisine": [
-        "romanian",
-        "international",
-        "european",
-        "grill"
-      ],
-
-      "cover": "chefs-boutique/cover.webp",
-
-      "location": {
-        "latitude": 45.6438046,
-        "longitude": 25.6277894
-      },
-
-      "rating": 4.6,
-
-      "partner": false,
-      "featured": false,
-      "active": true
-    }
-  ]
-}{
-  "version": 1,
-  "updatedAt": "2026-09-12",
-
-  "items": [
-    {
-      "id": "ceasu-rau",
-      "slug": "ceasu-rau",
-      "name": "Ceasu' Rău",
-
-      "category": "restaurant",
-
-      "cuisine": [
-        "romanian",
-        "grill"
-      ],
-
-      "cover": "ceasu-rau/cover.webp",
-
-      "location": {
-        "latitude": 45.6499965,
-        "longitude": 25.603989
-      },
-
-      "rating": 4.4,
-
-      "partner": false,
-      "featured": false,
-      "active": true
-    },
-
-    {
-      "id": "casa-tudor",
-      "slug": "casa-tudor",
-      "name": "Casa Tudor",
-
-      "category": "restaurant",
-
-      "cuisine": [
-        "romanian",
-        "international",
-        "grill"
-      ],
-
-      "cover": "casa-tudor/cover.webp",
-
-      "location": {
-        "latitude": 45.6570167,
-        "longitude": 25.5892924
-      },
-
-      "rating": 4.6,
-
-      "partner": false,
-      "featured": false,
-      "active": true
-    }
-  ]
-}{
-  "version": 1,
-  "updatedAt": "2026-09-12",
-
-  "items": [
-    {
-      "id": "ceasu-rau",
-      "slug": "ceasu-rau",
-      "name": "Ceasu' Rău",
-
-      "category": "restaurant",
-
-      "cuisine": [
-        "romanian",
-        "grill"
-      ],
-
-      "cover": "ceasu-rau/cover.webp",
-
-      "location": {
-        "latitude": 45.6499965,
-        "longitude": 25.603989
-      },
-
-      "rating": 4.4,
 
       "partner": false,
       "featured": false,
