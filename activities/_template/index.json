@@ -75,6 +75,11 @@
     "senior": null
   },
 
+  "pricing": {
+    "lastVerified": "",
+    "packages": []
+  },
+
   "rating": null,
   "reviewCount": null,
 
