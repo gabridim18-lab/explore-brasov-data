@@ -1,5 +1,32 @@
 {
   "version": 1,
   "updatedAt": "2026-09-12",
-  "items": []
+
+  "items": [
+    {
+      "id": "paradisul-acvatic",
+      "slug": "paradisul-acvatic",
+
+      "name": {
+        "ro": "Paradisul Acvatic",
+        "en": "Aquatic Paradise",
+        "de": "Aquatic Paradise"
+      },
+
+      "category": "aquatic",
+
+      "cover": "paradisul-acvatic/cover.webp",
+
+      "location": {
+        "latitude": 45.6731436,
+        "longitude": 25.5858594
+      },
+
+      "rating": 4.3,
+
+      "partner": false,
+      "featured": false,
+      "active": true
+    }
+  ]
 }
