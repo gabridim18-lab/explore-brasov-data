@@ -4,14 +4,13 @@
   "name": "Restaurant Name",
 
   "type": "restaurant",
+  "category": "restaurant",
 
   "google": {
     "placeId": "",
     "mapsUrl": "",
     "lastVerified": ""
   },
-
-  "category": "restaurant",
 
   "cuisine": [
     "romanian"
@@ -72,7 +71,9 @@
     "beer": null,
     "wine": null,
     "cocktails": null,
-    "vegetarianOptions": null
+    "vegetarianOptions": null,
+    "veganOptions": null,
+    "glutenFreeOptions": null
   },
 
   "suitableFor": {
@@ -86,6 +87,9 @@
     "restroom": null,
     "liveMusic": null,
     "childrensMenu": null,
+    "highchairs": null,
+    "playground": null,
+    "heatedTerrace": null,
     "allowsDogs": null
   },
 
