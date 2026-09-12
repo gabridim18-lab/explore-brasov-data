@@ -6,6 +6,69 @@
     {
       "id": "piata-sfatului",
       "slug": "piata-sfatului",
+
+      "name": {
+        "ro": "Piața Sfatului",
+        "en": "Council Square",
+        "de": "Rathausplatz"
+      },
+
+      "category": "historic_square",
+
+      "cover": "piata-sfatului/cover.webp",
+
+      "location": {
+        "latitude": 45.6421291,
+        "longitude": 25.5891759
+      },
+
+      "rating": 4.8,
+
+      "freeEntry": true,
+      "alwaysOpen": true,
+
+      "partner": false,
+      "featured": false,
+      "active": true
+    },
+
+    {
+      "id": "biserica-neagra",
+      "slug": "biserica-neagra",
+
+      "name": {
+        "ro": "Biserica Neagră",
+        "en": "Black Church",
+        "de": "Schwarze Kirche"
+      },
+
+      "category": "church",
+
+      "cover": "biserica-neagra/cover.webp",
+
+      "location": {
+        "latitude": 45.6410928,
+        "longitude": 25.5881636
+      },
+
+      "rating": 4.5,
+
+      "freeEntry": false,
+      "alwaysOpen": false,
+
+      "partner": false,
+      "featured": false,
+      "active": true
+    }
+  ]
+}{
+  "version": 1,
+  "updatedAt": "2026-09-12",
+
+  "items": [
+    {
+      "id": "piata-sfatului",
+      "slug": "piata-sfatului",
       "name": "Piața Sfatului",
 
       "category": "historic_square",
