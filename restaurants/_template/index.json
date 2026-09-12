@@ -1,1 +1,120 @@
+{
+  "id": "restaurant-slug",
+  "slug": "restaurant-slug",
+  "name": "Restaurant Name",
 
+  "type": "restaurant",
+
+  "google": {
+    "placeId": "",
+    "mapsUrl": "",
+    "lastVerified": ""
+  },
+
+  "category": "restaurant",
+
+  "cuisine": [
+    "romanian"
+  ],
+
+  "location": {
+    "address": "",
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+
+  "openingHours": {
+    "monday": [],
+    "tuesday": [],
+    "wednesday": [],
+    "thursday": [],
+    "friday": [],
+    "saturday": [],
+    "sunday": []
+  },
+
+  "shortDescription": {
+    "ro": "",
+    "en": ""
+  },
+
+  "description": {
+    "ro": "",
+    "en": ""
+  },
+
+  "images": [
+    "cover.webp",
+    "image_01.webp",
+    "image_02.webp"
+  ],
+
+  "priceLevel": null,
+
+  "rating": null,
+  "reviewCount": null,
+
+  "services": {
+    "dineIn": null,
+    "takeaway": null,
+    "delivery": null,
+    "reservable": null,
+    "outdoorSeating": null
+  },
+
+  "foodAndDrink": {
+    "breakfast": null,
+    "brunch": null,
+    "lunch": null,
+    "dinner": null,
+    "coffee": null,
+    "dessert": null,
+    "beer": null,
+    "wine": null,
+    "cocktails": null,
+    "vegetarianOptions": null
+  },
+
+  "suitableFor": {
+    "children": null,
+    "groups": null,
+    "watchingSports": null
+  },
+
+  "amenities": {
+    "wifi": null,
+    "restroom": null,
+    "liveMusic": null,
+    "childrensMenu": null,
+    "allowsDogs": null
+  },
+
+  "payments": {
+    "creditCard": null,
+    "debitCard": null,
+    "cashOnly": null,
+    "nfc": null
+  },
+
+  "parking": {
+    "available": null,
+    "freeParkingLot": null,
+    "paidParkingLot": null,
+    "streetParking": null
+  },
+
+  "accessibility": {
+    "wheelchairEntrance": null,
+    "wheelchairParking": null,
+    "wheelchairRestroom": null,
+    "wheelchairSeating": null
+  },
+
+  "website": "",
+
+  "tags": [],
+
+  "partner": false,
+  "featured": false,
+  "active": true
+}
