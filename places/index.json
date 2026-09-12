@@ -25,6 +25,30 @@
       "partner": false,
       "featured": false,
       "active": true
+    },
+
+    {
+      "id": "biserica-neagra",
+      "slug": "biserica-neagra",
+      "name": "Biserica Neagră",
+
+      "category": "church",
+
+      "cover": "biserica-neagra/cover.webp",
+
+      "location": {
+        "latitude": 45.6410928,
+        "longitude": 25.5881636
+      },
+
+      "rating": 4.5,
+
+      "freeEntry": false,
+      "alwaysOpen": false,
+
+      "partner": false,
+      "featured": false,
+      "active": true
     }
   ]
 }
