@@ -1,1 +1,131 @@
+{
+  "id": "tampa",
+  "slug": "tampa",
 
+  "name": {
+    "ro": "Tâmpa",
+    "en": "Tâmpa Mountain",
+    "de": "Tâmpa-Berg"
+  },
+
+  "type": "place",
+  "category": "mountain",
+
+  "google": {
+    "placeId": "ChIJx00e5WFbs0ARBeBoSlD5Lqg",
+    "mapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJx00e5WFbs0ARBeBoSlD5Lqg",
+    "lastVerified": "2026-09-12"
+  },
+
+  "location": {
+    "address": "Tâmpa, Brașov, România",
+    "latitude": 45.6340695,
+    "longitude": 25.5928472
+  },
+
+  "openingHours": {
+    "alwaysOpen": null,
+    "seasonal": false,
+
+    "monday": [],
+    "tuesday": [],
+    "wednesday": [],
+    "thursday": [],
+    "friday": [],
+    "saturday": [],
+    "sunday": [],
+
+    "periods": [],
+    "closedDates": []
+  },
+
+  "visitInfo": {
+    "lastEntryMinutesBeforeClose": null,
+    "scheduleMayChangeForEvents": false
+  },
+
+  "shortDescription": {
+    "ro": "Muntele care se ridică deasupra centrului Brașovului, cu trasee de drumeție, natură protejată și panorame spectaculoase asupra orașului.",
+    "en": "The mountain rising above central Brașov, with hiking trails, protected nature and spectacular panoramic views over the city.",
+    "de": "Der Berg über dem Zentrum von Brașov mit Wanderwegen, geschützter Natur und beeindruckenden Panoramablicken über die Stadt."
+  },
+
+  "description": {
+    "ro": "Tâmpa este unul dintre simbolurile naturale ale Brașovului și face parte dintr-o arie naturală protejată aflată chiar lângă centrul orașului. Muntele poate fi explorat pe mai multe trasee turistice marcate, care urcă prin pădure către zonele panoramice din apropierea vârfului. De sus se deschid priveliști ample asupra centrului istoric și a cartierelor Brașovului. Pentru cei care preferă o urcare mai rapidă, accesul către partea superioară a muntelui este asociat și cu transportul pe cablu, atunci când acesta este în funcțiune. Tâmpa este potrivită pentru plimbări, drumeții și explorarea naturii, însă condițiile traseelor trebuie evaluate în funcție de vreme și sezon.",
+    "en": "Tâmpa is one of Brașov's natural landmarks and forms part of a protected natural area located directly beside the city centre. The mountain can be explored using several marked hiking trails that climb through the forest towards panoramic areas near the summit. From above, visitors can enjoy wide views over the historic centre and the surrounding neighbourhoods of Brașov. For those who prefer a faster ascent, access to the upper part of the mountain is also associated with cable transport when it is operating. Tâmpa is well suited to walking, hiking and nature exploration, although trail conditions should always be considered according to the weather and season.",
+    "de": "Die Tâmpa ist eines der natürlichen Wahrzeichen von Brașov und Teil eines geschützten Naturgebiets unmittelbar am Stadtzentrum. Der Berg lässt sich über mehrere markierte Wanderwege erkunden, die durch den Wald zu Aussichtspunkten nahe des Gipfels führen. Von oben bieten sich weite Ausblicke auf die historische Altstadt und die umliegenden Stadtviertel von Brașov. Wer einen schnelleren Aufstieg bevorzugt, kann bei entsprechendem Betrieb auch die Seilbahn nutzen. Die Tâmpa eignet sich besonders für Spaziergänge, Wanderungen und Naturerlebnisse, wobei die Bedingungen der Wege je nach Wetter und Jahreszeit berücksichtigt werden sollten."
+  },
+
+  "images": [
+    "cover.webp",
+    "image_01.webp",
+    "image_02.webp"
+  ],
+
+  "priceLevel": null,
+
+  "entryFee": {
+    "currency": "RON",
+    "adult": null,
+    "retiree": null,
+    "universityStudent": null,
+    "studentUnder18": null,
+    "child": null,
+    "family": null,
+    "freeFor": []
+  },
+
+  "freeEntry": true,
+
+  "rating": 4.8,
+  "reviewCount": 1892,
+
+  "visit": {
+    "indoor": false,
+    "outdoor": true,
+    "familyFriendly": true,
+    "goodForChildren": null,
+    "guidedTours": null,
+    "reservationRequired": false,
+    "ticketsAvailable": false
+  },
+
+  "facilities": {
+    "restroom": null,
+    "wifi": null,
+    "foodAvailable": null,
+    "souvenirShop": null
+  },
+
+  "parking": {
+    "available": null,
+    "freeParkingLot": null,
+    "paidParkingLot": null,
+    "streetParking": null
+  },
+
+  "accessibility": {
+    "wheelchairEntrance": null,
+    "wheelchairParking": null,
+    "wheelchairRestroom": null
+  },
+
+  "website": "",
+
+  "tags": [
+    "mountain",
+    "nature",
+    "protected_area",
+    "hiking",
+    "walking",
+    "panoramic_view",
+    "outdoor",
+    "forest",
+    "viewpoint",
+    "city_view"
+  ],
+
+  "partner": false,
+  "featured": false,
+  "active": true
+}
