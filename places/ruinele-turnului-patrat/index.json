@@ -1,1 +1,129 @@
+{
+  "id": "ruinele-turnului-patrat",
+  "slug": "ruinele-turnului-patrat",
 
+  "name": {
+    "ro": "Ruinele Turnului Pătrat",
+    "en": "Square Tower Ruins",
+    "de": "Ruinen des quadratischen Turms"
+  },
+
+  "type": "place",
+  "category": "fortification_ruins",
+
+  "google": {
+    "placeId": "ChIJNXMqaABbs0ARS_orwyWUUfs",
+    "mapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJNXMqaABbs0ARS_orwyWUUfs",
+    "lastVerified": "2026-09-12"
+  },
+
+  "location": {
+    "address": "Aleea Tiberiu Brediceanu, Brașov, România",
+    "latitude": 45.6387897,
+    "longitude": 25.5911255
+  },
+
+  "openingHours": {
+    "alwaysOpen": null,
+    "seasonal": false,
+
+    "monday": [],
+    "tuesday": [],
+    "wednesday": [],
+    "thursday": [],
+    "friday": [],
+    "saturday": [],
+    "sunday": [],
+
+    "periods": [],
+    "closedDates": []
+  },
+
+  "visitInfo": {
+    "lastEntryMinutesBeforeClose": null,
+    "scheduleMayChangeForEvents": false
+  },
+
+  "shortDescription": {
+    "ro": "Ruine ale vechilor fortificații ale Brașovului, aflate pe Aleea Tiberiu Brediceanu, la poalele Tâmpei.",
+    "en": "Remains of Brașov's historic fortifications, located along Aleea Tiberiu Brediceanu at the foot of Tâmpa.",
+    "de": "Überreste der historischen Befestigungsanlagen von Brașov an der Aleea Tiberiu Brediceanu am Fuß der Tâmpa."
+  },
+
+  "description": {
+    "ro": "Ruinele Turnului Pătrat se află pe Aleea Tiberiu Brediceanu, de-a lungul laturii sud-estice a vechiului sistem defensiv al Brașovului. În această zonă s-au păstrat fragmente ale fortificațiilor medievale, care includeau ziduri, turnuri de apărare, bastioane și șanțuri defensive. Ansamblul fortificat al orașului s-a dezvoltat în principal între secolele XIV și XVII. Ruinele pot fi descoperite în timpul unei plimbări pe promenada de sub Tâmpa și oferă o perspectivă asupra sistemului de apărare care proteja odinioară cetatea.",
+    "en": "The Square Tower Ruins are located along Aleea Tiberiu Brediceanu, on the south-eastern side of Brașov's former defensive system. Sections of the medieval fortifications survive in this area, once formed by defensive walls, towers, bastions and ditches. The city's fortified system developed mainly between the 14th and 17th centuries. The ruins can be discovered during a walk along the promenade beneath Tâmpa and offer a glimpse into the defensive network that once protected the medieval city.",
+    "de": "Die Ruinen des quadratischen Turms liegen an der Aleea Tiberiu Brediceanu auf der südöstlichen Seite des ehemaligen Verteidigungssystems von Brașov. In diesem Bereich sind Teile der mittelalterlichen Befestigungsanlagen erhalten, zu denen Wehrmauern, Türme, Bastionen und Verteidigungsgräben gehörten. Das Befestigungssystem der Stadt entwickelte sich hauptsächlich zwischen dem 14. und 17. Jahrhundert. Die Ruinen lassen sich bei einem Spaziergang entlang der Promenade unterhalb der Tâmpa entdecken und vermitteln einen Eindruck vom einstigen Verteidigungssystem der mittelalterlichen Stadt."
+  },
+
+  "images": [
+    "cover.webp",
+    "image_01.webp",
+    "image_02.webp"
+  ],
+
+  "priceLevel": null,
+
+  "entryFee": {
+    "currency": "RON",
+    "adult": null,
+    "retiree": null,
+    "universityStudent": null,
+    "studentUnder18": null,
+    "child": null,
+    "family": null,
+    "freeFor": []
+  },
+
+  "freeEntry": null,
+
+  "rating": 3.8,
+  "reviewCount": 8,
+
+  "visit": {
+    "indoor": false,
+    "outdoor": true,
+    "familyFriendly": null,
+    "goodForChildren": null,
+    "guidedTours": null,
+    "reservationRequired": false,
+    "ticketsAvailable": false
+  },
+
+  "facilities": {
+    "restroom": null,
+    "wifi": null,
+    "foodAvailable": null,
+    "souvenirShop": null
+  },
+
+  "parking": {
+    "available": null,
+    "freeParkingLot": null,
+    "paidParkingLot": null,
+    "streetParking": null
+  },
+
+  "accessibility": {
+    "wheelchairEntrance": null,
+    "wheelchairParking": null,
+    "wheelchairRestroom": null
+  },
+
+  "website": "",
+
+  "tags": [
+    "historic_site",
+    "fortifications",
+    "medieval",
+    "ruins",
+    "history",
+    "outdoor",
+    "tampa",
+    "old_town"
+  ],
+
+  "partner": false,
+  "featured": false,
+  "active": true
+}
