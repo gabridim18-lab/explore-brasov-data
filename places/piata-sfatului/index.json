@@ -1,1 +1,103 @@
+{
+  "id": "piata-sfatului",
+  "slug": "piata-sfatului",
+  "name": "Piața Sfatului",
 
+  "type": "place",
+  "category": "historic_square",
+
+  "google": {
+    "placeId": "ChIJ804d5npbs0ARBDErjy24yWk",
+    "mapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ804d5npbs0ARBDErjy24yWk",
+    "lastVerified": "2026-09-12"
+  },
+
+  "location": {
+    "address": "Piața Sfatului, 500025 Brașov, România",
+    "latitude": 45.6421291,
+    "longitude": 25.5891759
+  },
+
+  "openingHours": {
+    "alwaysOpen": true,
+    "monday": [],
+    "tuesday": [],
+    "wednesday": [],
+    "thursday": [],
+    "friday": [],
+    "saturday": [],
+    "sunday": []
+  },
+
+  "shortDescription": {
+    "ro": "Piața centrală a Brașovului istoric, înconjurată de clădiri colorate, cafenele și unele dintre cele mai cunoscute obiective ale orașului.",
+    "en": "The central square of historic Brașov, surrounded by colourful buildings, cafés and some of the city's best-known landmarks."
+  },
+
+  "description": {
+    "ro": "Piața Sfatului este inima centrului istoric al Brașovului și unul dintre cele mai cunoscute locuri ale orașului. Piața este dominată de Casa Sfatului și este înconjurată de clădiri istorice, terase, cafenele și străzi pietonale care duc către alte atracții importante. Biserica Neagră se află la doar câteva minute de mers pe jos, iar zona este un punct foarte bun de plecare pentru explorarea centrului vechi. Piața găzduiește periodic târguri, festivaluri și evenimente și poate fi vizitată gratuit în orice moment al zilei.",
+    "en": "Council Square is the heart of Brașov's historic centre and one of the city's best-known places. The square is dominated by the Council House and surrounded by historic buildings, terraces, cafés and pedestrian streets leading towards other important attractions. The Black Church is only a few minutes away on foot, making the square an excellent starting point for exploring the Old Town. Markets, festivals and other events are held here throughout the year, and the square itself can be visited free of charge at any time."
+  },
+
+  "images": [
+    "cover.webp",
+    "image_01.webp",
+    "image_02.webp"
+  ],
+
+  "priceLevel": null,
+  "entryFee": null,
+  "freeEntry": true,
+
+  "rating": 4.8,
+  "reviewCount": 21659,
+
+  "visit": {
+    "indoor": false,
+    "outdoor": true,
+    "familyFriendly": true,
+    "goodForChildren": true,
+    "guidedTours": null,
+    "reservationRequired": false,
+    "ticketsAvailable": false
+  },
+
+  "facilities": {
+    "restroom": null,
+    "wifi": null,
+    "foodAvailable": true,
+    "souvenirShop": true
+  },
+
+  "parking": {
+    "available": true,
+    "freeParkingLot": false,
+    "paidParkingLot": true,
+    "streetParking": true
+  },
+
+  "accessibility": {
+    "wheelchairEntrance": true,
+    "wheelchairParking": true,
+    "wheelchairRestroom": null
+  },
+
+  "website": "https://www.brasovcity.ro/",
+
+  "tags": [
+    "historic_center",
+    "old_town",
+    "landmark",
+    "architecture",
+    "family_friendly",
+    "free",
+    "outdoor",
+    "cafes",
+    "restaurants",
+    "events"
+  ],
+
+  "partner": false,
+  "featured": false,
+  "active": true
+}
