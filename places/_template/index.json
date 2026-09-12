@@ -1,1 +1,90 @@
+{
+  "id": "place-slug",
+  "slug": "place-slug",
+  "name": "Place Name",
 
+  "type": "place",
+  "category": "landmark",
+
+  "google": {
+    "placeId": "",
+    "mapsUrl": "",
+    "lastVerified": ""
+  },
+
+  "location": {
+    "address": "",
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+
+  "openingHours": {
+    "monday": [],
+    "tuesday": [],
+    "wednesday": [],
+    "thursday": [],
+    "friday": [],
+    "saturday": [],
+    "sunday": []
+  },
+
+  "shortDescription": {
+    "ro": "",
+    "en": ""
+  },
+
+  "description": {
+    "ro": "",
+    "en": ""
+  },
+
+  "images": [
+    "cover.webp",
+    "image_01.webp",
+    "image_02.webp"
+  ],
+
+  "priceLevel": null,
+  "entryFee": null,
+
+  "rating": null,
+  "reviewCount": null,
+
+  "visit": {
+    "indoor": null,
+    "outdoor": null,
+    "familyFriendly": null,
+    "goodForChildren": null,
+    "guidedTours": null,
+    "reservationRequired": null,
+    "ticketsAvailable": null
+  },
+
+  "facilities": {
+    "restroom": null,
+    "wifi": null,
+    "foodAvailable": null,
+    "souvenirShop": null
+  },
+
+  "parking": {
+    "available": null,
+    "freeParkingLot": null,
+    "paidParkingLot": null,
+    "streetParking": null
+  },
+
+  "accessibility": {
+    "wheelchairEntrance": null,
+    "wheelchairParking": null,
+    "wheelchairRestroom": null
+  },
+
+  "website": "",
+
+  "tags": [],
+
+  "partner": false,
+  "featured": false,
+  "active": true
+}
