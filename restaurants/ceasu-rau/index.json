@@ -1,1 +1,164 @@
+{
+  "id": "ceasu-rau",
+  "slug": "ceasu-rau",
+  "name": "Ceasu' Rău",
 
+  "type": "restaurant",
+  "category": "restaurant",
+
+  "google": {
+    "placeId": "ChIJ06XjC4Fbs0ARjQa0yctA1KI",
+    "mapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ06XjC4Fbs0ARjQa0yctA1KI",
+    "lastVerified": "2026-09-12"
+  },
+
+  "cuisine": [
+    "romanian",
+    "grill"
+  ],
+
+  "location": {
+    "address": "Strada Iuliu Maniu 56, Brașov 500091, România",
+    "latitude": 45.6499965,
+    "longitude": 25.603989
+  },
+
+  "openingHours": {
+    "monday": [
+      {
+        "open": "11:00",
+        "close": "23:30"
+      }
+    ],
+    "tuesday": [
+      {
+        "open": "11:00",
+        "close": "23:30"
+      }
+    ],
+    "wednesday": [
+      {
+        "open": "11:00",
+        "close": "23:30"
+      }
+    ],
+    "thursday": [
+      {
+        "open": "11:00",
+        "close": "23:30"
+      }
+    ],
+    "friday": [
+      {
+        "open": "11:00",
+        "close": "23:30"
+      }
+    ],
+    "saturday": [
+      {
+        "open": "11:00",
+        "close": "23:30"
+      }
+    ],
+    "sunday": [
+      {
+        "open": "11:00",
+        "close": "23:30"
+      }
+    ]
+  },
+
+  "shortDescription": {
+    "ro": "Restaurant cu specific românesc, cunoscut pentru preparatele tradiționale și grătar, potrivit pentru prânz sau cină în Brașov.",
+    "en": "Romanian restaurant known for traditional dishes and grilled specialties, suitable for lunch or dinner in Brașov."
+  },
+
+  "description": {
+    "ro": "Ceasu' Rău este un restaurant cunoscut din Brașov, parte din Sergiana Grup, axat pe bucătăria românească și preparatele la grătar. Atmosfera este relaxată și potrivită atât pentru familii, cât și pentru grupuri, iar restaurantul oferă servire la masă, terasă și posibilitatea de a face rezervări. În meniu se regăsesc preparate tradiționale, grătare, deserturi și băuturi, fiind o opțiune potrivită pentru cei care vor să descopere gusturi românești într-un cadru informal.",
+    "en": "Ceasu' Rău is a well-known restaurant in Brașov and part of Sergiana Group, focused on Romanian cuisine and grilled dishes. The relaxed atmosphere suits both families and groups, with table service, outdoor seating and reservations available. The menu includes traditional dishes, grilled specialties, desserts and drinks, making it a good choice for visitors looking to experience Romanian flavours in an informal setting."
+  },
+
+  "images": [
+    "cover.webp",
+    "image_01.webp",
+    "image_02.webp"
+  ],
+
+  "priceLevel": null,
+
+  "rating": 4.4,
+  "reviewCount": 9344,
+
+  "services": {
+    "dineIn": true,
+    "takeaway": true,
+    "delivery": true,
+    "reservable": true,
+    "outdoorSeating": true
+  },
+
+  "foodAndDrink": {
+    "breakfast": null,
+    "brunch": null,
+    "lunch": true,
+    "dinner": true,
+    "coffee": true,
+    "dessert": true,
+    "beer": true,
+    "wine": true,
+    "cocktails": true,
+    "vegetarianOptions": true
+  },
+
+  "suitableFor": {
+    "children": true,
+    "groups": true,
+    "watchingSports": null
+  },
+
+  "amenities": {
+    "wifi": true,
+    "restroom": true,
+    "liveMusic": null,
+    "childrensMenu": null,
+    "allowsDogs": null
+  },
+
+  "payments": {
+    "creditCard": true,
+    "debitCard": true,
+    "cashOnly": false,
+    "nfc": true
+  },
+
+  "parking": {
+    "available": true,
+    "freeParkingLot": null,
+    "paidParkingLot": true,
+    "streetParking": true
+  },
+
+  "accessibility": {
+    "wheelchairEntrance": true,
+    "wheelchairParking": null,
+    "wheelchairRestroom": null,
+    "wheelchairSeating": true
+  },
+
+  "website": "https://www.sergiana.ro/ro/restaurante/restaurant-ceasu-rau",
+
+  "tags": [
+    "romanian_food",
+    "grill",
+    "family_friendly",
+    "groups",
+    "outdoor_seating",
+    "reservations",
+    "delivery",
+    "takeaway"
+  ],
+
+  "partner": false,
+  "featured": false,
+  "active": true
+}
