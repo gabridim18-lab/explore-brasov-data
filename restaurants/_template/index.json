@@ -1,7 +1,12 @@
 {
   "id": "restaurant-slug",
   "slug": "restaurant-slug",
-  "name": "Restaurant Name",
+
+  "name": {
+    "ro": "Nume restaurant",
+    "en": "Restaurant Name",
+    "de": "Restaurantname"
+  },
 
   "type": "restaurant",
   "category": "restaurant",
@@ -34,12 +39,14 @@
 
   "shortDescription": {
     "ro": "",
-    "en": ""
+    "en": "",
+    "de": ""
   },
 
   "description": {
     "ro": "",
-    "en": ""
+    "en": "",
+    "de": ""
   },
 
   "images": [
