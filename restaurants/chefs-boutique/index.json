@@ -1,7 +1,12 @@
 {
   "id": "chefs-boutique",
   "slug": "chefs-boutique",
-  "name": "Chef's Boutique",
+
+  "name": {
+    "ro": "Chef's Boutique",
+    "en": "Chef's Boutique",
+    "de": "Chef's Boutique"
+  },
 
   "type": "restaurant",
   "category": "restaurant",
@@ -72,12 +77,14 @@
 
   "shortDescription": {
     "ro": "Restaurant și bar cu preparate din carne, burgeri, coaste și specialități internaționale, într-o atmosferă relaxată.",
-    "en": "Restaurant and bar serving meat dishes, burgers, ribs and international specialties in a relaxed atmosphere."
+    "en": "Restaurant and bar serving meat dishes, burgers, ribs and international specialties in a relaxed atmosphere.",
+    "de": "Restaurant und Bar mit Fleischgerichten, Burgern, Rippchen und internationalen Spezialitäten in entspannter Atmosphäre."
   },
 
   "description": {
     "ro": "Chef's Boutique este un restaurant și bar din Brașov, cunoscut pentru preparatele din carne, burgerii din carne de vită, coaste și meniurile sezoniere. Oferta combină influențe românești și internaționale, iar meniul include atât preparate potrivite pentru prânz și cină, cât și deserturi și selecții de vinuri. Restaurantul oferă servire la masă, terasă, posibilitatea de rezervare și servicii de delivery, fiind o opțiune potrivită pentru o masă relaxată sau pentru cei care caută preparate consistente și atent pregătite.",
-    "en": "Chef's Boutique is a restaurant and bar in Brașov known for its meat dishes, beef burgers, ribs and seasonal specialties. The menu combines Romanian and international influences and includes options for lunch and dinner, desserts and a selection of wines. The restaurant offers table service, outdoor seating, reservations and delivery, making it a good choice for a relaxed meal or for visitors looking for carefully prepared, hearty dishes."
+    "en": "Chef's Boutique is a restaurant and bar in Brașov known for its meat dishes, beef burgers, ribs and seasonal specialties. The menu combines Romanian and international influences and includes options for lunch and dinner, desserts and a selection of wines. The restaurant offers table service, outdoor seating, reservations and delivery, making it a good choice for a relaxed meal or for visitors looking for carefully prepared, hearty dishes.",
+    "de": "Chef's Boutique ist ein Restaurant und eine Bar in Brașov, bekannt für Fleischgerichte, Rindfleisch-Burger, Rippchen und saisonale Spezialitäten. Die Speisekarte verbindet rumänische und internationale Einflüsse und bietet Gerichte für Mittag- und Abendessen, Desserts sowie eine Auswahl an Weinen. Das Restaurant bietet Bedienung am Tisch, Außensitzplätze, Reservierungsmöglichkeiten und Lieferservice und eignet sich sowohl für ein entspanntes Essen als auch für Gäste, die herzhafte und sorgfältig zubereitete Gerichte suchen."
   },
 
   "images": [
