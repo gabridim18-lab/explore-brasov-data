@@ -1,1 +1,131 @@
+{
+  "id": "activity-slug",
+  "slug": "activity-slug",
 
+  "name": {
+    "ro": "Nume activitate",
+    "en": "Activity Name",
+    "de": "Name der Aktivität"
+  },
+
+  "type": "activity",
+  "category": "family",
+
+  "google": {
+    "placeId": "",
+    "mapsUrl": "",
+    "lastVerified": ""
+  },
+
+  "location": {
+    "address": "",
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+
+  "openingHours": {
+    "alwaysOpen": null,
+    "seasonal": null,
+
+    "monday": [],
+    "tuesday": [],
+    "wednesday": [],
+    "thursday": [],
+    "friday": [],
+    "saturday": [],
+    "sunday": [],
+
+    "periods": [],
+    "closedDates": []
+  },
+
+  "visitInfo": {
+    "lastEntryMinutesBeforeClose": null,
+    "scheduleMayChangeForEvents": null,
+    "reservationRecommended": null,
+    "reservationRequired": null
+  },
+
+  "shortDescription": {
+    "ro": "",
+    "en": "",
+    "de": ""
+  },
+
+  "description": {
+    "ro": "",
+    "en": "",
+    "de": ""
+  },
+
+  "images": [
+    "cover.webp",
+    "image_01.webp",
+    "image_02.webp"
+  ],
+
+  "priceLevel": null,
+
+  "entryFee": {
+    "currency": "RON",
+    "adult": null,
+    "child": null,
+    "student": null,
+    "family": null,
+    "senior": null
+  },
+
+  "rating": null,
+  "reviewCount": null,
+
+  "activity": {
+    "indoor": null,
+    "outdoor": null,
+    "familyFriendly": null,
+    "goodForChildren": null,
+    "goodForGroups": null,
+    "couples": null,
+    "adventure": null,
+    "relaxation": null,
+    "rainyDay": null,
+    "winter": null,
+    "summer": null
+  },
+
+  "services": {
+    "bookingAvailable": null,
+    "ticketsAvailable": null,
+    "equipmentRental": null,
+    "instructorAvailable": null,
+    "foodAvailable": null
+  },
+
+  "facilities": {
+    "restroom": null,
+    "wifi": null,
+    "locker": null,
+    "changingRoom": null,
+    "shower": null
+  },
+
+  "parking": {
+    "available": null,
+    "freeParkingLot": null,
+    "paidParkingLot": null,
+    "streetParking": null
+  },
+
+  "accessibility": {
+    "wheelchairEntrance": null,
+    "wheelchairParking": null,
+    "wheelchairRestroom": null
+  },
+
+  "website": "",
+
+  "tags": [],
+
+  "partner": false,
+  "featured": false,
+  "active": true
+}
