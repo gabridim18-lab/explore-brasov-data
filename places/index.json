@@ -59,6 +59,35 @@
       "partner": false,
       "featured": false,
       "active": true
+    },
+
+    {
+      "id": "ruinele-turnului-patrat",
+      "slug": "ruinele-turnului-patrat",
+
+      "name": {
+        "ro": "Ruinele Turnului Pătrat",
+        "en": "Square Tower Ruins",
+        "de": "Ruinen des quadratischen Turms"
+      },
+
+      "category": "fortification_ruins",
+
+      "cover": "ruinele-turnului-patrat/cover.webp",
+
+      "location": {
+        "latitude": 45.6387897,
+        "longitude": 25.5911255
+      },
+
+      "rating": 3.8,
+
+      "freeEntry": null,
+      "alwaysOpen": null,
+
+      "partner": false,
+      "featured": false,
+      "active": true
     }
   ]
 }
