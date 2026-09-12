@@ -1,5 +1,30 @@
 {
   "version": 1,
   "updatedAt": "2026-09-12",
-  "items": []
+
+  "items": [
+    {
+      "id": "piata-sfatului",
+      "slug": "piata-sfatului",
+      "name": "Piața Sfatului",
+
+      "category": "historic_square",
+
+      "cover": "piata-sfatului/cover.webp",
+
+      "location": {
+        "latitude": 45.6421291,
+        "longitude": 25.5891759
+      },
+
+      "rating": 4.8,
+
+      "freeEntry": true,
+      "alwaysOpen": true,
+
+      "partner": false,
+      "featured": false,
+      "active": true
+    }
+  ]
 }
