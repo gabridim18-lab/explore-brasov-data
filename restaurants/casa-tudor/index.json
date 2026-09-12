@@ -1,1 +1,168 @@
+{
+  "id": "casa-tudor",
+  "slug": "casa-tudor",
+  "name": "Casa Tudor",
 
+  "type": "restaurant",
+  "category": "restaurant",
+
+  "google": {
+    "placeId": "",
+    "mapsUrl": "https://www.google.com/maps/place/Casa+Tudor/@45.6572261,25.5900799,16.33z/data=!4m6!3m5!1s0x40b35b99229135fb:0x9775b815cc60215!8m2!3d45.6570167!4d25.5892924",
+    "lastVerified": "2026-09-12"
+  },
+
+  "cuisine": [
+    "romanian",
+    "international",
+    "grill"
+  ],
+
+  "location": {
+    "address": "Strada Avram Iancu 58, Brașov 500075, România",
+    "latitude": 45.6570167,
+    "longitude": 25.5892924
+  },
+
+  "openingHours": {
+    "monday": [
+      {
+        "open": "11:00",
+        "close": "23:30"
+      }
+    ],
+    "tuesday": [
+      {
+        "open": "11:00",
+        "close": "23:30"
+      }
+    ],
+    "wednesday": [
+      {
+        "open": "11:00",
+        "close": "23:30"
+      }
+    ],
+    "thursday": [
+      {
+        "open": "11:00",
+        "close": "23:30"
+      }
+    ],
+    "friday": [
+      {
+        "open": "11:00",
+        "close": "23:30"
+      }
+    ],
+    "saturday": [
+      {
+        "open": "11:00",
+        "close": "23:30"
+      }
+    ],
+    "sunday": [
+      {
+        "open": "11:00",
+        "close": "23:30"
+      }
+    ]
+  },
+
+  "shortDescription": {
+    "ro": "Restaurant cu bucătărie românească și internațională, preparate la grătar, carne, pește și fructe de mare, într-o atmosferă relaxată.",
+    "en": "Restaurant serving Romanian and international cuisine, grilled dishes, meat, fish and seafood in a relaxed setting."
+  },
+
+  "description": {
+    "ro": "Casa Tudor este un restaurant din Brașov, parte din Sergiana Grup, cu un meniu care combină bucătăria românească și internațională. Oferta include preparate tradiționale, carne și specialități la grătar, preparate din pește și fructe de mare, alături de salate, supe și deserturi. Restaurantul este potrivit atât pentru familii și grupuri, cât și pentru o masă relaxată în doi și oferă terasă, rezervări și opțiuni pentru diferite preferințe alimentare.",
+    "en": "Casa Tudor is a Brașov restaurant within Sergiana Group, combining Romanian and international cuisine. Its menu includes traditional dishes, grilled meat and specialties, fish and seafood, as well as salads, soups and desserts. The restaurant is suitable for families, groups and relaxed meals for two, with outdoor seating, reservations and options for different dietary preferences."
+  },
+
+  "images": [
+    "cover.webp",
+    "image_01.webp",
+    "image_02.webp"
+  ],
+
+  "priceLevel": "$$",
+
+  "rating": 4.6,
+  "reviewCount": 7033,
+
+  "services": {
+    "dineIn": true,
+    "takeaway": true,
+    "delivery": true,
+    "reservable": true,
+    "outdoorSeating": true
+  },
+
+  "foodAndDrink": {
+    "breakfast": null,
+    "brunch": true,
+    "lunch": true,
+    "dinner": true,
+    "coffee": true,
+    "dessert": true,
+    "beer": true,
+    "wine": true,
+    "cocktails": null,
+    "vegetarianOptions": true
+  },
+
+  "suitableFor": {
+    "children": true,
+    "groups": true,
+    "watchingSports": null
+  },
+
+  "amenities": {
+    "wifi": true,
+    "restroom": null,
+    "liveMusic": null,
+    "childrensMenu": true,
+    "allowsDogs": true
+  },
+
+  "payments": {
+    "creditCard": true,
+    "debitCard": true,
+    "cashOnly": false,
+    "nfc": true
+  },
+
+  "parking": {
+    "available": true,
+    "freeParkingLot": null,
+    "paidParkingLot": null,
+    "streetParking": true
+  },
+
+  "accessibility": {
+    "wheelchairEntrance": true,
+    "wheelchairParking": null,
+    "wheelchairRestroom": null,
+    "wheelchairSeating": null
+  },
+
+  "website": "https://www.sergiana.ro/ro/restaurante/restaurant-casa-tudor",
+
+  "tags": [
+    "romanian_food",
+    "international_food",
+    "grill",
+    "seafood",
+    "family_friendly",
+    "groups",
+    "pet_friendly",
+    "outdoor_seating",
+    "reservations",
+    "delivery",
+    "takeaway"
+  ],
+
+  "partner": false,
+  "featured": false,
+  "active": true
+}
