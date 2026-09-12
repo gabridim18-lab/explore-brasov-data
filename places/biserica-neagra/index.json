@@ -1,1 +1,219 @@
+{
+  "id": "biserica-neagra",
+  "slug": "biserica-neagra",
+  "name": "Biserica Neagră",
 
+  "type": "place",
+  "category": "church",
+
+  "google": {
+    "placeId": "ChIJpcyiedVbs0ARnQcRIXlsmhw",
+    "mapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJpcyiedVbs0ARnQcRIXlsmhw",
+    "lastVerified": "2026-09-12"
+  },
+
+  "location": {
+    "address": "Curtea Johannes Honterus 2, Brașov 500025, România",
+    "latitude": 45.6410928,
+    "longitude": 25.5881636
+  },
+
+  "openingHours": {
+    "alwaysOpen": false,
+    "seasonal": true,
+
+    "periods": [
+      {
+        "from": "04-01",
+        "to": "10-15",
+
+        "monday": [
+          {
+            "open": "12:00",
+            "close": "19:00"
+          }
+        ],
+        "tuesday": [
+          {
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ],
+        "wednesday": [
+          {
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ],
+        "thursday": [
+          {
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ],
+        "friday": [
+          {
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ],
+        "saturday": [
+          {
+            "open": "10:00",
+            "close": "19:00"
+          }
+        ],
+        "sunday": [
+          {
+            "open": "12:00",
+            "close": "19:00"
+          }
+        ]
+      },
+
+      {
+        "from": "10-16",
+        "to": "03-31",
+
+        "monday": [
+          {
+            "open": "12:00",
+            "close": "18:00"
+          }
+        ],
+        "tuesday": [
+          {
+            "open": "10:00",
+            "close": "18:00"
+          }
+        ],
+        "wednesday": [
+          {
+            "open": "10:00",
+            "close": "18:00"
+          }
+        ],
+        "thursday": [
+          {
+            "open": "10:00",
+            "close": "18:00"
+          }
+        ],
+        "friday": [
+          {
+            "open": "10:00",
+            "close": "18:00"
+          }
+        ],
+        "saturday": [
+          {
+            "open": "10:00",
+            "close": "18:00"
+          }
+        ],
+        "sunday": [
+          {
+            "open": "12:00",
+            "close": "18:00"
+          }
+        ]
+      }
+    ],
+
+    "closedDates": [
+      "01-01",
+      "12-25"
+    ]
+  },
+
+  "visitInfo": {
+    "lastEntryMinutesBeforeClose": 20,
+    "scheduleMayChangeForEvents": true
+  },
+
+  "shortDescription": {
+    "ro": "Unul dintre simbolurile Brașovului și unul dintre cele mai importante monumente istorice din centrul vechi.",
+    "en": "One of Brașov's symbols and one of the most important historic landmarks in the Old Town."
+  },
+
+  "description": {
+    "ro": "Biserica Neagră este unul dintre cele mai cunoscute simboluri ale Brașovului și un reper esențial al centrului istoric. Interiorul impresionant, arhitectura gotică și tradiția muzicală legată de orga bisericii o transformă într-unul dintre obiectivele importante ale unei vizite în oraș. Biserica găzduiește și concerte de orgă și alte evenimente culturale, iar programul de vizitare poate fi modificat temporar în zilele cu ceremonii sau concerte.",
+    "en": "The Black Church is one of Brașov's best-known symbols and an essential landmark of the historic centre. Its impressive interior, Gothic architecture and musical tradition associated with the church organ make it one of the city's key attractions. The church also hosts organ concerts and other cultural events, and visiting hours may occasionally change when ceremonies or concerts take place."
+  },
+
+  "images": [
+    "cover.webp",
+    "image_01.webp",
+    "image_02.webp"
+  ],
+
+  "priceLevel": null,
+
+  "entryFee": {
+    "currency": "RON",
+    "adult": 30,
+    "retiree": 25,
+    "universityStudent": 25,
+    "studentUnder18": 20,
+
+    "freeFor": [
+      "children_under_7",
+      "visitors_with_disabilities",
+      "eligible_group_companions",
+      "group_guide"
+    ]
+  },
+
+  "freeEntry": false,
+
+  "rating": 4.5,
+  "reviewCount": 4910,
+
+  "visit": {
+    "indoor": true,
+    "outdoor": false,
+    "familyFriendly": null,
+    "goodForChildren": null,
+    "guidedTours": true,
+    "reservationRequired": false,
+    "ticketsAvailable": true
+  },
+
+  "facilities": {
+    "restroom": null,
+    "wifi": null,
+    "foodAvailable": null,
+    "souvenirShop": true
+  },
+
+  "parking": {
+    "available": null,
+    "freeParkingLot": null,
+    "paidParkingLot": null,
+    "streetParking": null
+  },
+
+  "accessibility": {
+    "wheelchairEntrance": null,
+    "wheelchairParking": null,
+    "wheelchairRestroom": null
+  },
+
+  "website": "https://bisericaneagra.ro/",
+
+  "tags": [
+    "church",
+    "gothic",
+    "history",
+    "architecture",
+    "old_town",
+    "indoor",
+    "paid_entry",
+    "guided_tours",
+    "organ_concerts"
+  ],
+
+  "partner": false,
+  "featured": false,
+  "active": true
+}
