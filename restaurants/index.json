@@ -1,5 +1,32 @@
 {
   "version": 1,
   "updatedAt": "2026-09-12",
-  "items": []
+
+  "items": [
+    {
+      "id": "ceasu-rau",
+      "slug": "ceasu-rau",
+      "name": "Ceasu' Rău",
+
+      "category": "restaurant",
+
+      "cuisine": [
+        "romanian",
+        "grill"
+      ],
+
+      "cover": "ceasu-rau/cover.webp",
+
+      "location": {
+        "latitude": 45.6499965,
+        "longitude": 25.603989
+      },
+
+      "rating": 4.4,
+
+      "partner": false,
+      "featured": false,
+      "active": true
+    }
+  ]
 }
