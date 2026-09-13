@@ -56,6 +56,13 @@
     "reservationRequired": null
   },
 
+  "session": {
+    "durationMinutes": null,
+    "minimumParticipants": null,
+    "maximumParticipants": null,
+    "arrivalMinutesBefore": null
+  },
+
   "requirements": {
     "juniorMinimumHeightCm": null,
     "adultMinimumAge": null,
@@ -131,6 +138,13 @@
     "locker": null,
     "changingRoom": null,
     "shower": null
+  },
+
+  "payments": {
+    "creditCard": null,
+    "debitCard": null,
+    "cashOnly": null,
+    "nfc": null
   },
 
   "parking": {
