@@ -1,1 +1,259 @@
+{
+  "id": "parapanta-brasov",
+  "slug": "parapanta-brasov",
 
+  "name": {
+    "ro": "ParapantaBrasov.ro - Zbor Parapanta Poiana Brașov",
+    "en": "ParapantaBrasov.ro - Paragliding Poiana Brașov",
+    "de": "ParapantaBrasov.ro - Gleitschirmflug Poiana Brașov"
+  },
+
+  "type": "activity",
+  "category": "paragliding",
+
+  "google": {
+    "placeId": "ChIJ__FzOddDs0ARxHOhg4qZYWQ",
+    "mapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ__FzOddDs0ARxHOhg4qZYWQ",
+    "lastVerified": "2026-09-13"
+  },
+
+  "location": {
+    "address": "Poiana Brașov, Brașov, România",
+    "latitude": 45.5917512,
+    "longitude": 25.5551812
+  },
+
+  "openingHours": {
+    "alwaysOpen": false,
+    "seasonal": false,
+
+    "monday": [
+      {
+        "open": "09:00",
+        "close": "16:00"
+      }
+    ],
+    "tuesday": [
+      {
+        "open": "09:00",
+        "close": "16:00"
+      }
+    ],
+    "wednesday": [
+      {
+        "open": "09:00",
+        "close": "16:00"
+      }
+    ],
+    "thursday": [
+      {
+        "open": "09:00",
+        "close": "16:00"
+      }
+    ],
+    "friday": [
+      {
+        "open": "09:00",
+        "close": "16:00"
+      }
+    ],
+    "saturday": [
+      {
+        "open": "09:00",
+        "close": "16:00"
+      }
+    ],
+    "sunday": [
+      {
+        "open": "09:00",
+        "close": "16:00"
+      }
+    ],
+
+    "periods": [],
+    "closedDates": []
+  },
+
+  "juniorOpeningHours": {
+    "monday": [],
+    "tuesday": [],
+    "wednesday": [],
+    "thursday": [],
+    "friday": [],
+    "saturday": [],
+    "sunday": []
+  },
+
+  "visitInfo": {
+    "lastEntryMinutesBeforeClose": null,
+    "scheduleMayChangeForEvents": false,
+    "reservationRecommended": true,
+    "reservationRequired": true,
+    "reservationLeadTimeHours": 24,
+    "weatherDependent": true
+  },
+
+  "session": {
+    "durationMinutes": null,
+    "minimumParticipants": 1,
+    "maximumParticipants": null,
+    "arrivalMinutesBefore": null
+  },
+
+  "requirements": {
+    "juniorMinimumHeightCm": null,
+    "adultMinimumAge": null,
+    "minimumAge": null,
+    "maximumAge": null,
+    "minimumHeightCm": null,
+    "maximumWeightKg": null,
+    "safetyBriefingRequired": true
+  },
+
+  "shortDescription": {
+    "ro": "Zboruri tandem cu parapanta de pe Masivul Postăvaru, cu panorame spectaculoase asupra Poienii Brașov și munților din jur.",
+    "en": "Tandem paragliding flights from the Postăvaru Massif, offering spectacular views over Poiana Brașov and the surrounding mountains.",
+    "de": "Tandem-Gleitschirmflüge vom Postăvaru-Massiv mit beeindruckenden Ausblicken auf Poiana Brașov und die umliegenden Berge."
+  },
+
+  "description": {
+    "ro": "ParapantaBrasov.ro oferă zboruri tandem cu parapanta din Masivul Postăvaru, deasupra stațiunii Poiana Brașov. Experiența este potrivită inclusiv pentru persoane fără experiență anterioară, zborul fiind realizat împreună cu un pilot tandem. În funcție de pachet și condițiile meteo, sunt disponibile atât zboruri de inițiere, cât și zboruri de durată mai mare. Echipamentul necesar este inclus, iar fotografiile și filmarea zborului sunt oferite în pachet. Activitatea depinde în totalitate de condițiile meteo, iar rezervarea trebuie făcută în avans. Punctul exact de întâlnire și condițiile de decolare sunt stabilite împreună cu pilotul înaintea zborului.",
+    "en": "ParapantaBrasov.ro offers tandem paragliding flights from the Postăvaru Massif above Poiana Brașov. The experience is suitable even for participants with no previous paragliding experience, as each flight is performed together with a tandem pilot. Depending on the selected package and weather conditions, both introductory and longer-duration flights are available. The necessary flight equipment is included, together with photos and video of the experience. Flights are entirely weather dependent and must be booked in advance. The exact meeting point and take-off arrangements are confirmed with the pilot before the flight.",
+    "de": "ParapantaBrasov.ro bietet Tandem-Gleitschirmflüge vom Postăvaru-Massiv oberhalb von Poiana Brașov an. Das Erlebnis eignet sich auch für Gäste ohne vorherige Flugerfahrung, da jeder Flug gemeinsam mit einem Tandempiloten durchgeführt wird. Abhängig vom gewählten Paket und den Wetterbedingungen stehen sowohl Einsteigerflüge als auch längere Flüge zur Verfügung. Die notwendige Flugausrüstung sowie Fotos und Videoaufnahmen des Erlebnisses sind inklusive. Die Flüge sind vollständig wetterabhängig und müssen im Voraus reserviert werden. Treffpunkt und Startbedingungen werden vor dem Flug mit dem Piloten abgestimmt."
+  },
+
+  "images": [
+    "cover.webp",
+    "image_01.webp",
+    "image_02.webp"
+  ],
+
+  "priceLevel": null,
+
+  "entryFee": {
+    "currency": "RON",
+    "adult": null,
+    "child": null,
+    "student": null,
+    "family": null,
+    "senior": null
+  },
+
+  "pricing": {
+    "lastVerified": "2026-09-13",
+
+    "packages": [
+      {
+        "id": "postavaru-initiation",
+        "name": {
+          "ro": "Zbor de inițiere Postăvaru",
+          "en": "Postăvaru Introductory Flight",
+          "de": "Postăvaru Einsteigerflug"
+        },
+        "price": 650,
+        "currency": "RON",
+        "maximumDurationMinutes": 15
+      },
+      {
+        "id": "postavaru-advanced",
+        "name": {
+          "ro": "Zbor avansat Postăvaru",
+          "en": "Postăvaru Advanced Flight",
+          "de": "Postăvaru Fortgeschrittener Flug"
+        },
+        "price": 1000,
+        "currency": "RON",
+        "maximumDurationMinutes": 30
+      }
+    ],
+
+    "additionalCosts": [
+      {
+        "id": "cable-transport",
+        "price": 40,
+        "currency": "RON",
+        "included": false
+      }
+    ]
+  },
+
+  "rating": 5.0,
+  "reviewCount": 32,
+
+  "activity": {
+    "indoor": false,
+    "outdoor": true,
+    "familyFriendly": null,
+    "goodForChildren": null,
+    "goodForGroups": true,
+    "couples": true,
+    "adventure": true,
+    "relaxation": false,
+    "rainyDay": false,
+    "winter": true,
+    "summer": true
+  },
+
+  "services": {
+    "bookingAvailable": true,
+    "ticketsAvailable": false,
+    "equipmentRental": false,
+    "equipmentIncluded": true,
+    "instructorAvailable": true,
+    "foodAvailable": false,
+    "photoVideoIncluded": true
+  },
+
+  "facilities": {
+    "restroom": null,
+    "wifi": null,
+    "locker": null,
+    "changingRoom": null,
+    "shower": null
+  },
+
+  "payments": {
+    "creditCard": null,
+    "debitCard": null,
+    "cashOnly": null,
+    "nfc": null
+  },
+
+  "parking": {
+    "available": null,
+    "freeParkingLot": null,
+    "paidParkingLot": null,
+    "streetParking": null
+  },
+
+  "accessibility": {
+    "wheelchairEntrance": null,
+    "wheelchairParking": null,
+    "wheelchairRestroom": null
+  },
+
+  "website": "https://parapantabrasov.ro/",
+
+  "tags": [
+    "paragliding",
+    "tandem_flight",
+    "adventure",
+    "adrenaline",
+    "outdoor",
+    "mountains",
+    "panoramic_view",
+    "poiana_brasov",
+    "postavaru",
+    "couples",
+    "groups",
+    "summer",
+    "winter",
+    "weather_dependent",
+    "reservation_required",
+    "photo_video"
+  ],
+
+  "partner": false,
+  "featured": false,
+  "active": true
+}
