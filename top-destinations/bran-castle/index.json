@@ -1,1 +1,270 @@
+{
+  "id": "bran-castle",
+  "slug": "bran-castle",
 
+  "name": {
+    "ro": "Castelul Bran",
+    "en": "Bran Castle",
+    "de": "Schloss Bran"
+  },
+
+  "type": "top_destination",
+  "category": "castle",
+
+  "google": {
+    "placeId": "ChIJMd4VpOVHs0ARf6sh2ZInks8",
+    "mapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJMd4VpOVHs0ARf6sh2ZInks8",
+    "lastVerified": "2026-09-13"
+  },
+
+  "location": {
+    "address": "Strada General Traian Moșoiu 24, 507025 Bran, România",
+    "latitude": 45.5149022,
+    "longitude": 25.3671637
+  },
+
+  "distanceFromBrasov": {
+    "approxKm": 30,
+    "approxDrivingMinutes": 35
+  },
+
+  "openingHours": {
+    "seasonal": true,
+
+    "periods": [
+      {
+        "from": "04-01",
+        "to": "07-31",
+        "monday": [
+          {
+            "open": "12:00",
+            "close": "18:00"
+          }
+        ],
+        "tuesday": [
+          {
+            "open": "09:00",
+            "close": "18:00"
+          }
+        ],
+        "wednesday": [
+          {
+            "open": "09:00",
+            "close": "18:00"
+          }
+        ],
+        "thursday": [
+          {
+            "open": "09:00",
+            "close": "18:00"
+          }
+        ],
+        "friday": [
+          {
+            "open": "09:00",
+            "close": "18:00"
+          }
+        ],
+        "saturday": [
+          {
+            "open": "09:00",
+            "close": "18:00"
+          }
+        ],
+        "sunday": [
+          {
+            "open": "09:00",
+            "close": "18:00"
+          }
+        ]
+      },
+
+      {
+        "from": "08-01",
+        "to": "09-30",
+        "monday": [
+          {
+            "open": "12:00",
+            "close": "19:00"
+          }
+        ],
+        "tuesday": [
+          {
+            "open": "09:00",
+            "close": "19:00"
+          }
+        ],
+        "wednesday": [
+          {
+            "open": "09:00",
+            "close": "19:00"
+          }
+        ],
+        "thursday": [
+          {
+            "open": "09:00",
+            "close": "19:00"
+          }
+        ],
+        "friday": [
+          {
+            "open": "09:00",
+            "close": "19:00"
+          }
+        ],
+        "saturday": [
+          {
+            "open": "09:00",
+            "close": "19:00"
+          }
+        ],
+        "sunday": [
+          {
+            "open": "09:00",
+            "close": "19:00"
+          }
+        ]
+      },
+
+      {
+        "from": "10-01",
+        "to": "03-31",
+        "monday": [
+          {
+            "open": "12:00",
+            "close": "18:00"
+          }
+        ],
+        "tuesday": [
+          {
+            "open": "09:00",
+            "close": "18:00"
+          }
+        ],
+        "wednesday": [
+          {
+            "open": "09:00",
+            "close": "18:00"
+          }
+        ],
+        "thursday": [
+          {
+            "open": "09:00",
+            "close": "18:00"
+          }
+        ],
+        "friday": [
+          {
+            "open": "09:00",
+            "close": "18:00"
+          }
+        ],
+        "saturday": [
+          {
+            "open": "09:00",
+            "close": "18:00"
+          }
+        ],
+        "sunday": [
+          {
+            "open": "09:00",
+            "close": "18:00"
+          }
+        ]
+      }
+    ]
+  },
+
+  "shortDescription": {
+    "ro": "Unul dintre cele mai cunoscute castele din România, asociat în cultura populară cu legenda lui Dracula și situat într-un spectaculos peisaj montan.",
+    "en": "One of Romania's best-known castles, popularly associated with the Dracula legend and set in a spectacular mountain landscape.",
+    "de": "Eines der bekanntesten Schlösser Rumäniens, eng mit der Dracula-Legende verbunden und in einer beeindruckenden Berglandschaft gelegen."
+  },
+
+  "description": {
+    "ro": "Castelul Bran este una dintre cele mai cunoscute atracții turistice din România și una dintre excursiile preferate ale vizitatorilor cazați în Brașov. Castelul medieval este construit pe o stâncă ce domină zona Bran și combină istoria Transilvaniei cu poveștile familiei regale și celebra legendă a lui Dracula. Vizitatorii pot explora încăperile istorice, curtea interioară și Parcul Regal, iar unele experiențe suplimentare includ Tunelul Timpului și camerele de tortură. Datorită distanței relativ mici față de Brașov, Castelul Bran este potrivit pentru o excursie de câteva ore sau pentru o zi petrecută explorând zona Bran–Moieciu.",
+    "en": "Bran Castle is one of Romania's best-known tourist attractions and one of the most popular excursions for visitors staying in Brașov. Built dramatically on a rocky hill, the medieval castle combines Transylvanian history, stories of Romania's royal family and the internationally famous Dracula legend. Visitors can explore the historic rooms, inner courtyard and Royal Park, while additional experiences include the Time Tunnel and Torture Rooms. Its relatively short distance from Brașov makes Bran Castle suitable for either a half-day visit or a full day exploring the Bran–Moieciu area.",
+    "de": "Schloss Bran gehört zu den bekanntesten Sehenswürdigkeiten Rumäniens und ist ein beliebtes Ausflugsziel für Besucher, die in Brașov übernachten. Die mittelalterliche Burg liegt eindrucksvoll auf einem Felsen und verbindet die Geschichte Siebenbürgens mit der rumänischen Königsfamilie und der international bekannten Dracula-Legende. Besucher können die historischen Räume, den Innenhof und den königlichen Park erkunden. Zusätzliche Erlebnisse sind unter anderem der Time Tunnel und die Folterkammern. Durch die relativ kurze Entfernung von Brașov eignet sich Schloss Bran sowohl für einen mehrstündigen Ausflug als auch für einen ganzen Tag in der Region Bran–Moieciu."
+  },
+
+  "images": [
+    "cover.webp",
+    "image_01.webp",
+    "image_02.webp"
+  ],
+
+  "ticketInfo": {
+    "currency": "RON",
+    "lastVerified": "2026-09-13",
+
+    "standard": {
+      "adult": 120,
+      "senior": 90,
+      "student": 80,
+      "child": 60,
+      "childAgeMin": 5,
+      "childAgeMax": 17,
+      "freeUnderAge": 5
+    }
+  },
+
+  "rating": 4.3,
+  "reviewCount": 113528,
+
+  "website": "https://bran-castle.com/",
+
+  "transportRequest": {
+    "enabled": true,
+
+    "providerIds": [
+      "transport-01",
+      "transport-02"
+    ],
+
+    "dispatchMode": "primary_then_fallback",
+
+    "buttonLabel": {
+      "ro": "Comandă o cursă",
+      "en": "Request a ride",
+      "de": "Fahrt anfragen"
+    },
+
+    "form": {
+      "destinationLocked": true,
+
+      "fields": [
+        "date",
+        "time",
+        "passengers",
+        "pickup",
+        "notes"
+      ]
+    },
+
+    "pricing": {
+      "currency": "RON",
+      "oneWay": null,
+      "roundTrip": null
+    },
+
+    "messageTemplate": {
+      "ro": "Bună ziua! Doresc o cursă către {destination} în data de {date}, la ora {time}, pentru {passengers} persoane. Preluare: {pickup}. {notes}",
+      "en": "Hello! I would like a ride to {destination} on {date} at {time} for {passengers} people. Pickup: {pickup}. {notes}",
+      "de": "Guten Tag! Ich möchte am {date} um {time} eine Fahrt nach {destination} für {passengers} Personen buchen. Abholung: {pickup}. {notes}"
+    }
+  },
+
+  "tags": [
+    "castle",
+    "history",
+    "dracula",
+    "royal_history",
+    "transylvania",
+    "family_friendly",
+    "day_trip",
+    "top_destination"
+  ],
+
+  "featured": true,
+  "active": true
+}
