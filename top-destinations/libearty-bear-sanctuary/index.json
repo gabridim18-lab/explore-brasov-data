@@ -1,1 +1,186 @@
+{
+  "id": "libearty-bear-sanctuary",
+  "slug": "libearty-bear-sanctuary",
 
+  "name": {
+    "ro": "Sanctuarul Libearty Zărnești",
+    "en": "Libearty Bear Sanctuary Zărnești",
+    "de": "Libearty Bärenreservat Zărnești"
+  },
+
+  "type": "top_destination",
+  "category": "wildlife_sanctuary",
+
+  "google": {
+    "placeId": "ChIJ2-Spxj5Ps0ARJoGtF3BfdpU",
+    "mapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ2-Spxj5Ps0ARJoGtF3BfdpU",
+    "lastVerified": "2026-09-13"
+  },
+
+  "location": {
+    "address": "Zărnești 505800, județul Brașov, România",
+    "latitude": 45.5931875,
+    "longitude": 25.3853124
+  },
+
+  "distanceFromBrasov": {
+    "approxKm": 30,
+    "approxDrivingMinutes": 45
+  },
+
+  "openingHours": {
+    "seasonal": true,
+
+    "periods": [
+      {
+        "days": [
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday",
+          "saturday",
+          "sunday"
+        ],
+
+        "tourTimes": [
+          "09:45",
+          "11:15"
+        ],
+
+        "tourType": "classic"
+      }
+    ],
+
+    "closedDays": [
+      "monday"
+    ]
+  },
+
+  "visitInfo": {
+    "guidedTourOnly": true,
+    "advanceBookingRecommended": true,
+    "onlineTicketsAvailable": true,
+    "ticketsReleasedDaysBefore": 10,
+    "classicTourDurationMinutes": 75,
+    "classicTourDistanceKm": 2,
+    "minimumAge": 5,
+    "childrenMustBeAccompaniedByAdult": true,
+    "languages": [
+      "ro",
+      "en"
+    ]
+  },
+
+  "shortDescription": {
+    "ro": "Sanctuar dedicat urșilor salvați din captivitate, întins pe zeci de hectare de pădure lângă Zărnești și vizitabil exclusiv prin tururi ghidate.",
+    "en": "A sanctuary dedicated to bears rescued from captivity, spread across dozens of hectares of forest near Zărnești and accessible only through guided tours.",
+    "de": "Ein Schutzgebiet für aus Gefangenschaft gerettete Bären, das sich über mehrere Dutzend Hektar Wald bei Zărnești erstreckt und ausschließlich im Rahmen geführter Touren besucht werden kann."
+  },
+
+  "description": {
+    "ro": "Sanctuarul AMP Libearty din Zărnești este unul dintre cele mai speciale locuri care pot fi vizitate în apropierea Brașovului. Sanctuarul nu este o grădină zoologică, ci un centru dedicat urșilor salvați din captivitate și din situații în care au fost exploatați sau ținuți în condiții improprii. Peste 130 de urși trăiesc într-un habitat de aproximativ 69 de hectare de pădure, cu copaci, pâraie și piscine. Vizitele se desfășoară exclusiv în cadrul tururilor ghidate, pe un traseu forestier amenajat, iar ghidul prezintă poveștile animalelor și activitatea de salvare desfășurată de sanctuar. Numărul de locuri este limitat, astfel că achiziționarea biletelor în avans este recomandată. Copiii cu vârsta sub 5 ani nu sunt admiși.",
+    "en": "The AMP Libearty Bear Sanctuary in Zărnești is one of the most distinctive places to visit near Brașov. It is not a zoo, but a sanctuary dedicated to bears rescued from captivity and situations in which they were exploited or kept in unsuitable conditions. More than 130 bears live in approximately 69 hectares of forest with trees, streams and pools. Visits are possible only as part of guided tours along a prepared forest trail, where guides explain the stories of the rescued animals and the sanctuary's work. Visitor numbers are limited, so purchasing tickets in advance is recommended. Children under the age of five are not admitted.",
+    "de": "Das AMP Libearty Bärenreservat in Zărnești gehört zu den außergewöhnlichsten Ausflugszielen in der Umgebung von Brașov. Es handelt sich nicht um einen Zoo, sondern um ein Schutzgebiet für Bären, die aus Gefangenschaft oder aus schlechten Haltungsbedingungen gerettet wurden. Mehr als 130 Bären leben auf rund 69 Hektar Wald mit Bäumen, Bächen und Wasserbecken. Der Besuch ist ausschließlich im Rahmen geführter Touren auf einem angelegten Waldweg möglich. Dabei erzählen die Guides die Geschichten der geretteten Tiere und erklären die Arbeit des Schutzgebiets. Da die Teilnehmerzahl begrenzt ist, empfiehlt sich der Kauf der Eintrittskarten im Voraus. Kinder unter fünf Jahren haben keinen Zutritt."
+  },
+
+  "images": [
+    "cover.webp",
+    "image_01.webp",
+    "image_02.webp"
+  ],
+
+  "ticketInfo": {
+    "currency": "RON",
+    "lastVerified": "2026-09-13",
+
+    "standard": {
+      "adultFrom": 95,
+      "childFrom": 50,
+      "childAgeMin": 5,
+      "childAgeMax": 18,
+      "under5Allowed": false
+    },
+
+    "specialTours": {
+      "private": {
+        "pricePerGroupEur": 200,
+        "regularTicketAdditional": true,
+        "reservationLeadTimeHours": 72
+      },
+
+      "vip": {
+        "groupFeeEur": 200,
+        "adultFeeEur": 50,
+        "childFeeEur": 25,
+        "reservationLeadTimeHours": 72
+      },
+
+      "superVip": {
+        "priceEur": 600,
+        "includedPersons": 8,
+        "reservationLeadTimeHours": 72
+      }
+    }
+  },
+
+  "rating": 4.6,
+  "reviewCount": 4493,
+
+  "website": "https://millionsoffriends.org/libearty/viziteaza-sanctuarul/",
+
+  "transportRequest": {
+    "enabled": true,
+
+    "providerIds": [
+      "transport-01",
+      "transport-02"
+    ],
+
+    "dispatchMode": "primary_then_fallback",
+
+    "buttonLabel": {
+      "ro": "Comandă o cursă",
+      "en": "Request a ride",
+      "de": "Fahrt anfragen"
+    },
+
+    "form": {
+      "destinationLocked": true,
+
+      "fields": [
+        "date",
+        "time",
+        "passengers",
+        "pickup",
+        "notes"
+      ]
+    },
+
+    "pricing": {
+      "currency": "RON",
+      "oneWay": null,
+      "roundTrip": null
+    },
+
+    "messageTemplate": {
+      "ro": "Bună ziua! Doresc o cursă către {destination} în data de {date}, la ora {time}, pentru {passengers} persoane. Preluare: {pickup}. {notes}",
+      "en": "Hello! I would like a ride to {destination} on {date} at {time} for {passengers} people. Pickup: {pickup}. {notes}",
+      "de": "Guten Tag! Ich möchte am {date} um {time} eine Fahrt nach {destination} für {passengers} Personen buchen. Abholung: {pickup}. {notes}"
+    }
+  },
+
+  "tags": [
+    "bears",
+    "wildlife",
+    "sanctuary",
+    "nature",
+    "guided_tour",
+    "family",
+    "zarnesti",
+    "day_trip",
+    "top_destination"
+  ],
+
+  "featured": true,
+  "active": true
+}
