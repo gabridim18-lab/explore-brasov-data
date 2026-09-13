@@ -1,1 +1,131 @@
+{
+  "id": "auto-rent-brasov",
+  "slug": "auto-rent-brasov",
 
+  "name": {
+    "ro": "AUTO RENT BRASOV",
+    "en": "AUTO RENT BRASOV",
+    "de": "AUTO RENT BRASOV"
+  },
+
+  "type": "guest_service",
+  "category": "rent_a_car",
+
+  "google": {
+    "placeId": "ChIJ3690a3tbs0ARBc9Av4MMuW4",
+    "mapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3690a3tbs0ARBc9Av4MMuW4",
+    "lastVerified": "2026-09-13"
+  },
+
+  "location": {
+    "address": "Strada Tudor Arghezi 11, Brașov 500167, România",
+    "latitude": 45.6672161,
+    "longitude": 25.6191214
+  },
+
+  "openingHours": {
+    "monday": [
+      {
+        "open": "09:00",
+        "close": "17:00"
+      }
+    ],
+    "tuesday": [
+      {
+        "open": "09:00",
+        "close": "17:00"
+      }
+    ],
+    "wednesday": [
+      {
+        "open": "09:00",
+        "close": "17:00"
+      }
+    ],
+    "thursday": [
+      {
+        "open": "09:00",
+        "close": "17:00"
+      }
+    ],
+    "friday": [
+      {
+        "open": "09:00",
+        "close": "17:00"
+      }
+    ],
+    "saturday": [
+      {
+        "open": "09:00",
+        "close": "13:00"
+      }
+    ],
+    "sunday": []
+  },
+
+  "shortDescription": {
+    "ro": "Serviciu local de închirieri auto în Brașov, potrivit pentru turiști care vor să exploreze independent orașul și împrejurimile.",
+    "en": "Local car rental service in Brașov, suitable for travellers who want to explore the city and surrounding region independently.",
+    "de": "Lokaler Mietwagenservice in Brașov für Reisende, die die Stadt und die Umgebung unabhängig erkunden möchten."
+  },
+
+  "description": {
+    "ro": "AUTO RENT BRASOV oferă servicii de închiriere auto pentru perioade scurte sau mai lungi, fiind o opțiune utilă pentru turiștii care doresc să exploreze independent Brașovul, Bran, Râșnov, Sinaia și alte destinații din regiune. Firma are punct de lucru în Brașov și oferă o varietate de autoturisme potrivite atât pentru deplasări urbane, cât și pentru excursii în afara orașului. Disponibilitatea și tarifele pot varia în funcție de perioada aleasă și de categoria autoturismului.",
+    "en": "AUTO RENT BRASOV provides car rental services for short and longer periods and is a useful option for travellers who want to explore Brașov, Bran, Râșnov, Sinaia and other regional destinations independently. The company operates from Brașov and offers different vehicle categories suitable for both city driving and day trips. Availability and rental rates may vary depending on the selected dates and vehicle category.",
+    "de": "AUTO RENT BRASOV bietet Mietwagen für kurze und längere Zeiträume und eignet sich für Reisende, die Brașov, Bran, Râșnov, Sinaia und weitere Ziele der Region unabhängig erkunden möchten. Das Unternehmen hat einen Standort in Brașov und bietet verschiedene Fahrzeugkategorien für Stadtfahrten und Tagesausflüge. Verfügbarkeit und Mietpreise können je nach Zeitraum und Fahrzeugklasse variieren."
+  },
+
+  "images": [
+    "cover.webp",
+    "image_01.webp",
+    "image_02.webp"
+  ],
+
+  "availability": {
+    "alwaysAvailable": false,
+    "reservationRequired": null,
+    "advanceBookingRecommended": true
+  },
+
+  "pricing": {
+    "currency": "RON",
+    "fixedPrice": null,
+    "priceFrom": null,
+    "priceOnRequest": true
+  },
+
+  "rating": 4.9,
+  "reviewCount": 275,
+
+  "request": {
+    "enabled": false,
+    "providerIds": []
+  },
+
+  "primaryAction": {
+    "type": "website",
+
+    "buttonLabel": {
+      "ro": "Vezi mașinile disponibile",
+      "en": "View available cars",
+      "de": "Verfügbare Fahrzeuge ansehen"
+    },
+
+    "url": "https://www.autorentbrasov.ro/"
+  },
+
+  "website": "https://www.autorentbrasov.ro/",
+
+  "tags": [
+    "rent_a_car",
+    "car_rental",
+    "brasov",
+    "self_drive",
+    "day_trips",
+    "short_term_rental",
+    "long_term_rental"
+  ],
+
+  "featured": true,
+  "active": true
+}
