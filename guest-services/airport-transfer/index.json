@@ -1,1 +1,154 @@
+{
+  "id": "airport-transfer",
+  "slug": "airport-transfer",
 
+  "name": {
+    "ro": "Transfer aeroport",
+    "en": "Airport Transfer",
+    "de": "Flughafentransfer"
+  },
+
+  "type": "guest_service",
+  "category": "airport_transfer",
+
+  "shortDescription": {
+    "ro": "Transfer privat între Brașov și principalele aeroporturi, cu preluare direct de la cazare sau de la aeroport.",
+    "en": "Private transfer between Brașov and the main airports, with pickup directly from your accommodation or from the airport.",
+    "de": "Privater Transfer zwischen Brașov und den wichtigsten Flughäfen mit Abholung direkt an der Unterkunft oder am Flughafen."
+  },
+
+  "description": {
+    "ro": "Serviciu de transfer privat pentru turiștii care sosesc sau pleacă din Brașov. Poți solicita preluare direct de la cazare sau de la aeroport și poți indica numărul zborului pentru o identificare mai ușoară a cursei. Sunt disponibile transferuri către Aeroportul Internațional Brașov-Ghimbav, Aeroportul Henri Coandă București și Aeroportul Internațional Sibiu. După completarea formularului, solicitarea este pregătită automat și poate fi trimisă prin WhatsApp către operatorul de transport.",
+    "en": "Private transfer service for travellers arriving in or departing from Brașov. Pickup can be requested directly from the accommodation or from the airport, and the flight number can be added to help coordinate the journey. Transfers are available for Brașov-Ghimbav International Airport, Bucharest Henri Coandă Airport and Sibiu International Airport. After completing the form, the request is automatically prepared and can be sent to the transport provider through WhatsApp.",
+    "de": "Privater Transferservice für Reisende, die in Brașov ankommen oder von dort abreisen. Die Abholung kann direkt an der Unterkunft oder am Flughafen erfolgen. Zur besseren Koordination kann auch die Flugnummer angegeben werden. Transfers sind zum internationalen Flughafen Brașov-Ghimbav, zum Flughafen Bukarest Henri Coandă und zum internationalen Flughafen Sibiu möglich. Nach dem Ausfüllen des Formulars wird die Anfrage automatisch erstellt und kann per WhatsApp an den Transportanbieter gesendet werden."
+  },
+
+  "images": [
+    "cover.webp",
+    "image_01.webp",
+    "image_02.webp"
+  ],
+
+  "location": {
+    "address": "",
+    "latitude": null,
+    "longitude": null
+  },
+
+  "airports": [
+    {
+      "id": "brasov-ghimbav",
+      "iata": "GHV",
+
+      "name": {
+        "ro": "Aeroportul Internațional Brașov-Ghimbav",
+        "en": "Brașov-Ghimbav International Airport",
+        "de": "Internationaler Flughafen Brașov-Ghimbav"
+      }
+    },
+    {
+      "id": "bucharest-otopeni",
+      "iata": "OTP",
+
+      "name": {
+        "ro": "Aeroportul Internațional Henri Coandă București",
+        "en": "Bucharest Henri Coandă International Airport",
+        "de": "Internationaler Flughafen Bukarest Henri Coandă"
+      }
+    },
+    {
+      "id": "sibiu",
+      "iata": "SBZ",
+
+      "name": {
+        "ro": "Aeroportul Internațional Sibiu",
+        "en": "Sibiu International Airport",
+        "de": "Internationaler Flughafen Sibiu"
+      }
+    }
+  ],
+
+  "availability": {
+    "alwaysAvailable": null,
+    "reservationRequired": true,
+    "advanceBookingRecommended": true
+  },
+
+  "pricing": {
+    "currency": "RON",
+    "fixedPrice": null,
+    "priceFrom": null,
+    "priceOnRequest": true,
+
+    "routes": [
+      {
+        "airportId": "brasov-ghimbav",
+        "oneWay": null,
+        "roundTrip": null
+      },
+      {
+        "airportId": "bucharest-otopeni",
+        "oneWay": null,
+        "roundTrip": null
+      },
+      {
+        "airportId": "sibiu",
+        "oneWay": null,
+        "roundTrip": null
+      }
+    ]
+  },
+
+  "request": {
+    "enabled": true,
+
+    "providerIds": [
+      "transport-01",
+      "transport-02"
+    ],
+
+    "dispatchMode": "primary_then_fallback",
+
+    "buttonLabel": {
+      "ro": "Solicită transfer",
+      "en": "Request transfer",
+      "de": "Transfer anfragen"
+    },
+
+    "fields": [
+      "direction",
+      "airport",
+      "date",
+      "time",
+      "passengers",
+      "pickup",
+      "flightNumber",
+      "notes"
+    ],
+
+    "directionOptions": [
+      "to_airport",
+      "from_airport"
+    ],
+
+    "messageTemplate": {
+      "ro": "Bună ziua! Doresc un transfer aeroport. Direcție: {direction}. Aeroport: {airport}. Data: {date}, ora: {time}, pentru {passengers} persoane. Preluare/destinație: {pickup}. Număr zbor: {flightNumber}. {notes}",
+      "en": "Hello! I would like an airport transfer. Direction: {direction}. Airport: {airport}. Date: {date}, time: {time}, for {passengers} people. Pickup/destination: {pickup}. Flight number: {flightNumber}. {notes}",
+      "de": "Guten Tag! Ich möchte einen Flughafentransfer buchen. Richtung: {direction}. Flughafen: {airport}. Datum: {date}, Uhrzeit: {time}, für {passengers} Personen. Abholung/Ziel: {pickup}. Flugnummer: {flightNumber}. {notes}"
+    }
+  },
+
+  "website": "",
+
+  "tags": [
+    "airport_transfer",
+    "private_transfer",
+    "brasov_airport",
+    "otopeni",
+    "sibiu_airport",
+    "whatsapp_request"
+  ],
+
+  "featured": true,
+  "active": true
+}
