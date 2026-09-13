@@ -68,6 +68,33 @@
 
       "featured": true,
       "active": true
+    },
+
+    {
+      "id": "cub-velo-hub",
+      "slug": "cub-velo-hub",
+
+      "name": {
+        "ro": "CUB Velo Hub",
+        "en": "CUB Velo Hub",
+        "de": "CUB Velo Hub"
+      },
+
+      "category": "bike_rental",
+
+      "cover": "cub-velo-hub/cover.webp",
+
+      "location": {
+        "latitude": 45.6602011,
+        "longitude": 25.608434
+      },
+
+      "rating": 4.7,
+
+      "requestEnabled": false,
+
+      "featured": true,
+      "active": true
     }
   ]
 }
