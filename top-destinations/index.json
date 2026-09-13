@@ -65,6 +65,38 @@
 
       "featured": true,
       "active": true
+    },
+
+    {
+      "id": "peles-castle",
+      "slug": "peles-castle",
+
+      "name": {
+        "ro": "Castelul Peleș",
+        "en": "Peleș Castle",
+        "de": "Schloss Peleș"
+      },
+
+      "category": "castle",
+
+      "cover": "peles-castle/cover.webp",
+
+      "location": {
+        "latitude": 45.3599816,
+        "longitude": 25.5426423
+      },
+
+      "distanceFromBrasov": {
+        "approxKm": 45,
+        "approxDrivingMinutes": 48
+      },
+
+      "rating": 4.7,
+
+      "transportRequestEnabled": true,
+
+      "featured": true,
+      "active": true
     }
   ]
 }
