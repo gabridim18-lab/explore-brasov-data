@@ -33,6 +33,38 @@
 
       "featured": true,
       "active": true
+    },
+
+    {
+      "id": "libearty-bear-sanctuary",
+      "slug": "libearty-bear-sanctuary",
+
+      "name": {
+        "ro": "Sanctuarul Libearty Zărnești",
+        "en": "Libearty Bear Sanctuary Zărnești",
+        "de": "Libearty Bärenreservat Zărnești"
+      },
+
+      "category": "wildlife_sanctuary",
+
+      "cover": "libearty-bear-sanctuary/cover.webp",
+
+      "location": {
+        "latitude": 45.5931875,
+        "longitude": 25.3853124
+      },
+
+      "distanceFromBrasov": {
+        "approxKm": 30,
+        "approxDrivingMinutes": 45
+      },
+
+      "rating": 4.6,
+
+      "transportRequestEnabled": true,
+
+      "featured": true,
+      "active": true
     }
   ]
 }
