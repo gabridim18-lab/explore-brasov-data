@@ -14,7 +14,6 @@
       },
 
       "category": "airport_transfer",
-
       "cover": "airport-transfer/cover.webp",
 
       "requestEnabled": true,
@@ -34,7 +33,6 @@
       },
 
       "category": "custom_transport",
-
       "cover": "custom-transport/cover.webp",
 
       "requestEnabled": true,
@@ -54,7 +52,6 @@
       },
 
       "category": "rent_a_car",
-
       "cover": "auto-rent-brasov/cover.webp",
 
       "location": {
@@ -81,7 +78,6 @@
       },
 
       "category": "bike_rental",
-
       "cover": "cub-velo-hub/cover.webp",
 
       "location": {
@@ -91,6 +87,33 @@
 
       "rating": 4.7,
 
+      "requestEnabled": false,
+
+      "featured": true,
+      "active": true
+    },
+
+    {
+      "id": "blue-viking",
+      "slug": "blue-viking",
+
+      "name": {
+        "ro": "Blue Viking",
+        "en": "Blue Viking",
+        "de": "Blue Viking"
+      },
+
+      "category": "food_delivery",
+      "cover": "blue-viking/cover.webp",
+
+      "location": {
+        "latitude": 45.6585878,
+        "longitude": 25.607912
+      },
+
+      "rating": 4.0,
+
+      "nonStop": true,
       "requestEnabled": false,
 
       "featured": true,
