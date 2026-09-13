@@ -1,1 +1,84 @@
+{
+  "id": "service-slug",
+  "slug": "service-slug",
 
+  "name": {
+    "ro": "Nume serviciu",
+    "en": "Service Name",
+    "de": "Name des Services"
+  },
+
+  "type": "guest_service",
+  "category": "service",
+
+  "shortDescription": {
+    "ro": "",
+    "en": "",
+    "de": ""
+  },
+
+  "description": {
+    "ro": "",
+    "en": "",
+    "de": ""
+  },
+
+  "images": [
+    "cover.webp",
+    "image_01.webp",
+    "image_02.webp"
+  ],
+
+  "location": {
+    "address": "",
+    "latitude": null,
+    "longitude": null
+  },
+
+  "availability": {
+    "alwaysAvailable": null,
+    "reservationRequired": null,
+    "advanceBookingRecommended": null
+  },
+
+  "pricing": {
+    "currency": "RON",
+    "fixedPrice": null,
+    "priceFrom": null,
+    "priceOnRequest": true
+  },
+
+  "request": {
+    "enabled": false,
+
+    "providerIds": [],
+
+    "buttonLabel": {
+      "ro": "Solicită serviciul",
+      "en": "Request service",
+      "de": "Service anfragen"
+    },
+
+    "fields": [
+      "date",
+      "time",
+      "passengers",
+      "pickup",
+      "destination",
+      "notes"
+    ],
+
+    "messageTemplate": {
+      "ro": "",
+      "en": "",
+      "de": ""
+    }
+  },
+
+  "website": "",
+
+  "tags": [],
+
+  "featured": false,
+  "active": true
+}
