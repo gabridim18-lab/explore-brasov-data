@@ -1,1 +1,238 @@
+{
+  "id": "obscuria-escape-rooms",
+  "slug": "obscuria-escape-rooms",
 
+  "name": {
+    "ro": "Obscuria Escape Rooms",
+    "en": "Obscuria Escape Rooms",
+    "de": "Obscuria Escape Rooms"
+  },
+
+  "type": "activity",
+  "category": "escape_room",
+
+  "google": {
+    "placeId": "ChIJ76oVsYFbs0ARqMZSs6EfRhY",
+    "mapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ76oVsYFbs0ARqMZSs6EfRhY",
+    "lastVerified": "2026-09-13"
+  },
+
+  "location": {
+    "address": "Strada Castanilor 4, Brașov 500097, România",
+    "latitude": 45.6489661,
+    "longitude": 25.6044847
+  },
+
+  "openingHours": {
+    "alwaysOpen": false,
+    "seasonal": false,
+
+    "monday": [
+      {
+        "open": "11:30",
+        "close": "23:00"
+      }
+    ],
+    "tuesday": [
+      {
+        "open": "11:30",
+        "close": "23:00"
+      }
+    ],
+    "wednesday": [
+      {
+        "open": "11:30",
+        "close": "23:00"
+      }
+    ],
+    "thursday": [
+      {
+        "open": "11:30",
+        "close": "23:00"
+      }
+    ],
+    "friday": [
+      {
+        "open": "11:30",
+        "close": "23:00"
+      }
+    ],
+    "saturday": [
+      {
+        "open": "11:30",
+        "close": "23:00"
+      }
+    ],
+    "sunday": [
+      {
+        "open": "11:30",
+        "close": "23:00"
+      }
+    ],
+
+    "periods": [],
+    "closedDates": []
+  },
+
+  "juniorOpeningHours": {
+    "monday": [],
+    "tuesday": [],
+    "wednesday": [],
+    "thursday": [],
+    "friday": [],
+    "saturday": [],
+    "sunday": []
+  },
+
+  "visitInfo": {
+    "lastEntryMinutesBeforeClose": null,
+    "scheduleMayChangeForEvents": null,
+    "reservationRecommended": true,
+    "reservationRequired": false
+  },
+
+  "session": {
+    "durationMinutes": 60,
+    "minimumParticipants": 2,
+    "maximumParticipants": 6,
+    "arrivalMinutesBefore": 10
+  },
+
+  "requirements": {
+    "juniorMinimumHeightCm": null,
+    "adultMinimumAge": null,
+    "minimumAge": null,
+    "maximumAge": null,
+    "minimumHeightCm": null,
+    "maximumWeightKg": null,
+    "safetyBriefingRequired": true
+  },
+
+  "shortDescription": {
+    "ro": "Escape room indoor cu scenarii tematice, puzzle-uri interactive și provocări de logică pentru echipe de 2–6 persoane.",
+    "en": "Indoor escape room experience with themed scenarios, interactive puzzles and logic challenges for teams of 2–6 players.",
+    "de": "Indoor-Escape-Room mit thematischen Szenarien, interaktiven Rätseln und Logikaufgaben für Teams mit 2–6 Personen."
+  },
+
+  "description": {
+    "ro": "Obscuria Escape Rooms oferă experiențe interactive de tip escape room în care echipele trebuie să descopere indicii, să rezolve puzzle-uri și să colaboreze pentru a finaliza misiunea în aproximativ 60 de minute. Sunt disponibile mai multe scenarii tematice, printre care Dracula: The Second Coming, Inside Job și Code Red, fiecare cu propria poveste și nivel de dificultate. Activitatea este potrivită pentru prieteni, familii, cupluri și grupuri și reprezintă o alegere foarte bună pentru o zi ploioasă sau rece în Brașov. Rezervarea se poate face online, iar participanții sunt rugați să ajungă cu aproximativ 10 minute înainte pentru prezentarea regulilor jocului.",
+    "en": "Obscuria Escape Rooms offers interactive escape room experiences where teams search for clues, solve puzzles and work together to complete a mission in approximately 60 minutes. Several themed scenarios are available, including Dracula: The Second Coming, Inside Job and Code Red, each with its own story and difficulty level. The activity is suitable for friends, families, couples and groups and is an excellent option for a rainy or cold day in Brașov. Reservations can be made online, and participants are asked to arrive around 10 minutes early for a briefing on the game rules.",
+    "de": "Obscuria Escape Rooms bietet interaktive Escape-Room-Erlebnisse, bei denen Teams Hinweise suchen, Rätsel lösen und zusammenarbeiten, um eine Mission innerhalb von etwa 60 Minuten zu erfüllen. Zur Auswahl stehen mehrere thematische Szenarien, darunter Dracula: The Second Coming, Inside Job und Code Red, jeweils mit eigener Geschichte und unterschiedlichem Schwierigkeitsgrad. Die Aktivität eignet sich für Freunde, Familien, Paare und Gruppen und ist eine sehr gute Wahl für regnerische oder kalte Tage in Brașov. Reservierungen können online vorgenommen werden. Die Teilnehmer sollten etwa 10 Minuten vor Beginn eintreffen, um eine kurze Einführung in die Spielregeln zu erhalten."
+  },
+
+  "images": [
+    "cover.webp",
+    "image_01.webp",
+    "image_02.webp"
+  ],
+
+  "priceLevel": null,
+
+  "entryFee": {
+    "currency": "RON",
+    "adult": null,
+    "child": null,
+    "student": null,
+    "family": null,
+    "senior": null
+  },
+
+  "pricing": {
+    "lastVerified": "2026-09-13",
+
+    "packages": [
+      {
+        "minimumParticipants": 2,
+        "maximumParticipants": 2,
+        "pricePerPerson": 120,
+        "currency": "RON"
+      },
+      {
+        "minimumParticipants": 3,
+        "maximumParticipants": 3,
+        "pricePerPerson": 100,
+        "currency": "RON"
+      },
+      {
+        "minimumParticipants": 4,
+        "maximumParticipants": 6,
+        "pricePerPerson": 90,
+        "currency": "RON"
+      }
+    ]
+  },
+
+  "rating": 5.0,
+  "reviewCount": 1742,
+
+  "activity": {
+    "indoor": true,
+    "outdoor": false,
+    "familyFriendly": true,
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "couples": true,
+    "adventure": true,
+    "relaxation": false,
+    "rainyDay": true,
+    "winter": true,
+    "summer": true
+  },
+
+  "services": {
+    "bookingAvailable": true,
+    "ticketsAvailable": false,
+    "equipmentRental": false,
+    "instructorAvailable": null,
+    "foodAvailable": null
+  },
+
+  "facilities": {
+    "restroom": true,
+    "wifi": true,
+    "locker": null,
+    "changingRoom": null,
+    "shower": null
+  },
+
+  "payments": {
+    "creditCard": true,
+    "debitCard": true,
+    "cashOnly": false,
+    "nfc": true
+  },
+
+  "parking": {
+    "available": true,
+    "freeParkingLot": false,
+    "paidParkingLot": false,
+    "streetParking": true
+  },
+
+  "accessibility": {
+    "wheelchairEntrance": false,
+    "wheelchairParking": null,
+    "wheelchairRestroom": null
+  },
+
+  "website": "https://obscuria.ro/",
+
+  "tags": [
+    "escape_room",
+    "indoor",
+    "adventure",
+    "puzzles",
+    "teamwork",
+    "family_friendly",
+    "groups",
+    "couples",
+    "rainy_day",
+    "winter",
+    "summer",
+    "online_booking"
+  ],
+
+  "partner": false,
+  "featured": false,
+  "active": true
+}
