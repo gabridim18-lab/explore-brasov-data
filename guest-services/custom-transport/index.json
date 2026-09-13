@@ -1,1 +1,102 @@
+{
+  "id": "custom-transport",
+  "slug": "custom-transport",
 
+  "name": {
+    "ro": "Transport către orice destinație",
+    "en": "Transport to Any Destination",
+    "de": "Fahrt zu jedem Reiseziel"
+  },
+
+  "type": "guest_service",
+  "category": "custom_transport",
+
+  "shortDescription": {
+    "ro": "Ai o destinație în minte? Trimite o solicitare pentru transport privat direct de la cazare către locul ales de tine.",
+    "en": "Have a destination in mind? Send a request for private transport directly from your accommodation to the place of your choice.",
+    "de": "Sie haben ein bestimmtes Reiseziel im Sinn? Senden Sie eine Anfrage für einen privaten Transfer direkt von Ihrer Unterkunft zum gewünschten Ziel."
+  },
+
+  "description": {
+    "ro": "Serviciul este destinat turiștilor care doresc să ajungă la o destinație care nu apare în lista noastră de excursii sau transferuri prestabilite. Poți introduce destinația dorită, data, ora, numărul de persoane și punctul de preluare. După completarea formularului, mesajul este generat automat și poate fi trimis prin WhatsApp către operatorul de transport. Prețul este comunicat în funcție de traseu și disponibilitate.",
+    "en": "This service is designed for travellers who want to reach a destination that is not included in our predefined trips or transfers. Enter your destination, date, time, number of passengers and pickup location. After completing the form, the message is automatically generated and can be sent to the transport provider through WhatsApp. The price is confirmed according to the requested route and availability.",
+    "de": "Dieser Service richtet sich an Reisende, die ein Ziel erreichen möchten, das nicht in unseren vordefinierten Ausflügen oder Transfers enthalten ist. Geben Sie Reiseziel, Datum, Uhrzeit, Anzahl der Personen und Abholort ein. Nach dem Ausfüllen des Formulars wird automatisch eine Nachricht erstellt, die per WhatsApp an den Transportanbieter gesendet werden kann. Der Preis wird je nach Strecke und Verfügbarkeit bestätigt."
+  },
+
+  "images": [
+    "cover.webp",
+    "image_01.webp",
+    "image_02.webp"
+  ],
+
+  "location": {
+    "address": "",
+    "latitude": null,
+    "longitude": null
+  },
+
+  "availability": {
+    "alwaysAvailable": null,
+    "reservationRequired": true,
+    "advanceBookingRecommended": true
+  },
+
+  "pricing": {
+    "currency": "RON",
+    "fixedPrice": null,
+    "priceFrom": null,
+    "priceOnRequest": true
+  },
+
+  "request": {
+    "enabled": true,
+
+    "providerIds": [
+      "transport-01",
+      "transport-02"
+    ],
+
+    "dispatchMode": "primary_then_fallback",
+
+    "buttonLabel": {
+      "ro": "Solicită o cursă",
+      "en": "Request a ride",
+      "de": "Fahrt anfragen"
+    },
+
+    "formTitle": {
+      "ro": "Unde vrei să mergi?",
+      "en": "Where would you like to go?",
+      "de": "Wohin möchten Sie fahren?"
+    },
+
+    "fields": [
+      "destination",
+      "date",
+      "time",
+      "passengers",
+      "pickup",
+      "returnTrip",
+      "notes"
+    ],
+
+    "messageTemplate": {
+      "ro": "Bună ziua! Doresc o cursă către {destination} în data de {date}, la ora {time}, pentru {passengers} persoane. Preluare: {pickup}. Retur: {returnTrip}. {notes}",
+      "en": "Hello! I would like a ride to {destination} on {date} at {time} for {passengers} people. Pickup: {pickup}. Return trip: {returnTrip}. {notes}",
+      "de": "Guten Tag! Ich möchte am {date} um {time} eine Fahrt nach {destination} für {passengers} Personen buchen. Abholung: {pickup}. Rückfahrt: {returnTrip}. {notes}"
+    }
+  },
+
+  "website": "",
+
+  "tags": [
+    "private_transport",
+    "custom_destination",
+    "day_trip",
+    "private_ride",
+    "whatsapp_request"
+  ],
+
+  "featured": true,
+  "active": true
+}
