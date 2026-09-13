@@ -39,11 +39,31 @@
     "closedDates": []
   },
 
+  "juniorOpeningHours": {
+    "monday": [],
+    "tuesday": [],
+    "wednesday": [],
+    "thursday": [],
+    "friday": [],
+    "saturday": [],
+    "sunday": []
+  },
+
   "visitInfo": {
     "lastEntryMinutesBeforeClose": null,
     "scheduleMayChangeForEvents": null,
     "reservationRecommended": null,
     "reservationRequired": null
+  },
+
+  "requirements": {
+    "juniorMinimumHeightCm": null,
+    "adultMinimumAge": null,
+    "minimumAge": null,
+    "maximumAge": null,
+    "minimumHeightCm": null,
+    "maximumWeightKg": null,
+    "safetyBriefingRequired": null
   },
 
   "shortDescription": {
