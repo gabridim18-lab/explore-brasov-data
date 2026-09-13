@@ -1,1 +1,170 @@
+{
+  "id": "cub-velo-hub",
+  "slug": "cub-velo-hub",
 
+  "name": {
+    "ro": "CUB Velo Hub",
+    "en": "CUB Velo Hub",
+    "de": "CUB Velo Hub"
+  },
+
+  "type": "guest_service",
+  "category": "bike_rental",
+
+  "google": {
+    "placeId": "ChIJ35wd-C5ds0ARnbYM5zpHmY0",
+    "mapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ35wd-C5ds0ARnbYM5zpHmY0",
+    "lastVerified": "2026-09-13"
+  },
+
+  "location": {
+    "address": "Bulevardul Gării 1, Brașov 500148, România",
+    "latitude": 45.6602011,
+    "longitude": 25.608434
+  },
+
+  "openingHours": {
+    "monday": [
+      {
+        "open": "09:00",
+        "close": "18:00"
+      }
+    ],
+    "tuesday": [
+      {
+        "open": "09:00",
+        "close": "18:00"
+      }
+    ],
+    "wednesday": [
+      {
+        "open": "09:00",
+        "close": "22:00"
+      }
+    ],
+    "thursday": [
+      {
+        "open": "09:00",
+        "close": "22:00"
+      }
+    ],
+    "friday": [
+      {
+        "open": "09:00",
+        "close": "22:00"
+      }
+    ],
+    "saturday": [
+      {
+        "open": "10:00",
+        "close": "22:00"
+      }
+    ],
+    "sunday": [
+      {
+        "open": "10:00",
+        "close": "22:00"
+      }
+    ]
+  },
+
+  "shortDescription": {
+    "ro": "Închirieri de biciclete clasice și electrice în apropierea Gării Brașov, potrivite pentru explorarea orașului și pentru traseele din împrejurimi.",
+    "en": "Classic and electric bicycle rentals near Brașov railway station, ideal for exploring the city and nearby cycling routes.",
+    "de": "Verleih von klassischen und elektrischen Fahrrädern in der Nähe des Bahnhofs Brașov – ideal für Stadtfahrten und Touren in der Umgebung."
+  },
+
+  "description": {
+    "ro": "CUB Velo Hub oferă biciclete MTB clasice și biciclete electrice pentru turiștii care vor să exploreze Brașovul și împrejurimile pe două roți. Sunt disponibile variante pentru o zi întreagă, iar bicicletele electrice pot fi închiriate și pentru patru ore. Casca este inclusă gratuit. Pentru bicicletele electrice este recomandată rezervarea în avans, astfel încât bateria să poată fi pregătită pentru tură. Locația se află pe Bulevardul Gării, la câteva minute de Gara Brașov, și oferă și service pentru biciclete și trotinete.",
+    "en": "CUB Velo Hub offers classic mountain bikes and electric bicycles for travellers who want to explore Brașov and the surrounding area on two wheels. Full-day rentals are available, while electric bikes can also be rented for four hours. A bicycle helmet is included free of charge. Advance booking is recommended for electric bikes so the battery can be prepared before the ride. The location is on Bulevardul Gării, only a few minutes from Brașov railway station, and also provides bicycle and scooter servicing.",
+    "de": "CUB Velo Hub vermietet klassische Mountainbikes und Elektrofahrräder für Besucher, die Brașov und die Umgebung auf zwei Rädern erkunden möchten. Fahrräder können für einen ganzen Tag gemietet werden, E-Bikes zusätzlich auch für vier Stunden. Ein Fahrradhelm ist kostenlos enthalten. Für E-Bikes empfiehlt sich eine Reservierung im Voraus, damit der Akku rechtzeitig vorbereitet werden kann. Der Standort befindet sich am Bulevardul Gării, nur wenige Minuten vom Bahnhof Brașov entfernt, und bietet außerdem Fahrrad- und E-Scooter-Service."
+  },
+
+  "images": [
+    "cover.webp",
+    "image_01.webp",
+    "image_02.webp"
+  ],
+
+  "availability": {
+    "alwaysAvailable": false,
+    "reservationRequired": false,
+    "advanceBookingRecommended": true
+  },
+
+  "rental": {
+    "identityDocumentRequired": true,
+    "helmetIncluded": true,
+    "onlineBookingAvailable": true
+  },
+
+  "pricing": {
+    "currency": "RON",
+    "lastVerified": "2026-09-13",
+
+    "packages": [
+      {
+        "id": "mtb-26-full-day",
+        "vehicleType": "classic_mtb",
+        "wheelSizeInches": 26,
+        "duration": "full_day",
+        "price": 80
+      },
+      {
+        "id": "mtb-27-5-full-day",
+        "vehicleType": "classic_mtb",
+        "wheelSizeInches": 27.5,
+        "duration": "full_day",
+        "price": 100
+      },
+      {
+        "id": "ebike-4-hours",
+        "vehicleType": "electric_bike",
+        "durationHours": 4,
+        "price": 150
+      },
+      {
+        "id": "ebike-full-day",
+        "vehicleType": "electric_bike",
+        "duration": "full_day",
+        "price": 200
+      }
+    ]
+  },
+
+  "rating": 4.7,
+  "reviewCount": 414,
+
+  "request": {
+    "enabled": false,
+    "providerIds": []
+  },
+
+  "primaryAction": {
+    "type": "website",
+
+    "buttonLabel": {
+      "ro": "Închiriază o bicicletă",
+      "en": "Rent a bike",
+      "de": "Fahrrad mieten"
+    },
+
+    "url": "https://cub.eco/inchirieri/"
+  },
+
+  "website": "https://cub.eco/inchirieri/",
+
+  "tags": [
+    "bike_rental",
+    "ebike_rental",
+    "mountain_bike",
+    "cycling",
+    "outdoor",
+    "brasov_station",
+    "online_booking",
+    "helmet_included"
+  ],
+
+  "featured": true,
+  "active": true
+}
