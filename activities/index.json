@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12",
+  "updatedAt": "2026-09-13",
 
   "items": [
     {
@@ -23,6 +23,32 @@
       },
 
       "rating": 4.3,
+
+      "partner": false,
+      "featured": false,
+      "active": true
+    },
+
+    {
+      "id": "vmax-karting",
+      "slug": "vmax-karting",
+
+      "name": {
+        "ro": "VMax Karting Brașov",
+        "en": "VMax Karting Brașov",
+        "de": "VMax Karting Brașov"
+      },
+
+      "category": "indoor_karting",
+
+      "cover": "vmax-karting/cover.webp",
+
+      "location": {
+        "latitude": 45.6747639,
+        "longitude": 25.6177475
+      },
+
+      "rating": 4.5,
 
       "partner": false,
       "featured": false,
