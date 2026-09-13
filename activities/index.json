@@ -53,6 +53,32 @@
       "partner": false,
       "featured": false,
       "active": true
+    },
+
+    {
+      "id": "obscuria-escape-rooms",
+      "slug": "obscuria-escape-rooms",
+
+      "name": {
+        "ro": "Obscuria Escape Rooms",
+        "en": "Obscuria Escape Rooms",
+        "de": "Obscuria Escape Rooms"
+      },
+
+      "category": "escape_room",
+
+      "cover": "obscuria-escape-rooms/cover.webp",
+
+      "location": {
+        "latitude": 45.6489661,
+        "longitude": 25.6044847
+      },
+
+      "rating": 5.0,
+
+      "partner": false,
+      "featured": false,
+      "active": true
     }
   ]
 }
