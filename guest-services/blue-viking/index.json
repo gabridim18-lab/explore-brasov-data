@@ -1,1 +1,148 @@
+{
+  "id": "blue-viking",
+  "slug": "blue-viking",
 
+  "name": {
+    "ro": "Blue Viking",
+    "en": "Blue Viking",
+    "de": "Blue Viking"
+  },
+
+  "type": "guest_service",
+  "category": "food_delivery",
+
+  "google": {
+    "placeId": "ChIJD3AfCYJbs0ARTpdwH7rLVSw",
+    "mapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJD3AfCYJbs0ARTpdwH7rLVSw",
+    "lastVerified": "2026-09-13"
+  },
+
+  "location": {
+    "address": "Strada Crișana 4, Brașov 500209, România",
+    "latitude": 45.6585878,
+    "longitude": 25.607912
+  },
+
+  "openingHours": {
+    "alwaysOpen": true,
+
+    "monday": [
+      {
+        "open": "00:00",
+        "close": "24:00"
+      }
+    ],
+    "tuesday": [
+      {
+        "open": "00:00",
+        "close": "24:00"
+      }
+    ],
+    "wednesday": [
+      {
+        "open": "00:00",
+        "close": "24:00"
+      }
+    ],
+    "thursday": [
+      {
+        "open": "00:00",
+        "close": "24:00"
+      }
+    ],
+    "friday": [
+      {
+        "open": "00:00",
+        "close": "24:00"
+      }
+    ],
+    "saturday": [
+      {
+        "open": "00:00",
+        "close": "24:00"
+      }
+    ],
+    "sunday": [
+      {
+        "open": "00:00",
+        "close": "24:00"
+      }
+    ]
+  },
+
+  "shortDescription": {
+    "ro": "Pizza și preparate cu livrare non-stop în Brașov, o opțiune utilă pentru oaspeții care vor să comande mâncare direct la cazare, inclusiv târziu în noapte.",
+    "en": "Pizza and food delivery available 24/7 in Brașov, a convenient option for guests who want food delivered directly to their accommodation, even late at night.",
+    "de": "Pizza und Essenslieferung rund um die Uhr in Brașov – praktisch für Gäste, die direkt zur Unterkunft bestellen möchten, auch spät in der Nacht."
+  },
+
+  "description": {
+    "ro": "Blue Viking este o pizzerie din Brașov cu serviciu propriu de livrare disponibil non-stop. Meniul include pizza artizanală, salate, Pagrano, deserturi și băuturi, iar comenzile pot fi plasate online. Livrarea în municipiul Brașov este gratuită, iar serviciul acoperă și numeroase localități din împrejurimi, unde se pot aplica taxe suplimentare. Este o opțiune practică pentru turiștii care ajung târziu la cazare sau preferă să comande masa direct la proprietate.",
+    "en": "Blue Viking is a Brașov pizzeria with its own 24/7 delivery service. The menu includes artisan pizza, salads, Pagrano, desserts and drinks, and orders can be placed online. Delivery within Brașov is free, while many surrounding towns are also covered with additional delivery charges where applicable. It is a convenient option for travellers arriving late or simply preferring to have food delivered directly to their accommodation.",
+    "de": "Blue Viking ist eine Pizzeria in Brașov mit eigenem Lieferservice rund um die Uhr. Das Angebot umfasst handwerklich zubereitete Pizza, Salate, Pagrano, Desserts und Getränke; Bestellungen können online aufgegeben werden. Innerhalb von Brașov ist die Lieferung kostenlos, zusätzlich werden zahlreiche Orte in der Umgebung gegen entsprechende Liefergebühren bedient. Der Service eignet sich besonders für Reisende, die spät ankommen oder ihr Essen direkt zur Unterkunft bestellen möchten."
+  },
+
+  "images": [
+    "cover.webp",
+    "image_01.webp",
+    "image_02.webp"
+  ],
+
+  "delivery": {
+    "available": true,
+    "nonStop": true,
+
+    "brasov": {
+      "available": true,
+      "deliveryFee": 0,
+      "currency": "RON",
+      "estimatedMinutesMin": 40,
+      "estimatedMinutesMax": 60
+    },
+
+    "surroundingAreasAvailable": true,
+    "surroundingAreasFeeVaries": true
+  },
+
+  "payments": {
+    "cashOnDelivery": true,
+    "cardOnDelivery": true,
+    "onlineCard": true
+  },
+
+  "rating": 4.0,
+  "reviewCount": 1198,
+
+  "request": {
+    "enabled": false,
+    "providerIds": []
+  },
+
+  "primaryAction": {
+    "type": "order_online",
+
+    "buttonLabel": {
+      "ro": "Comandă mâncare",
+      "en": "Order food",
+      "de": "Essen bestellen"
+    },
+
+    "url": "https://blueviking.ro/"
+  },
+
+  "website": "https://blueviking.ro/",
+
+  "tags": [
+    "food_delivery",
+    "pizza",
+    "non_stop",
+    "24_7",
+    "late_night_food",
+    "free_delivery_brasov",
+    "online_order",
+    "delivery_to_accommodation"
+  ],
+
+  "featured": true,
+  "active": true
+}
