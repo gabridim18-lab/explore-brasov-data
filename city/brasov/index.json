@@ -1,1 +1,197 @@
+{
+  "id": "brasov",
+  "slug": "brasov",
 
+  "name": {
+    "ro": "Brașov",
+    "en": "Brașov",
+    "de": "Kronstadt"
+  },
+
+  "type": "city",
+
+  "country": {
+    "code": "RO",
+    "name": {
+      "ro": "România",
+      "en": "Romania",
+      "de": "Rumänien"
+    }
+  },
+
+  "region": {
+    "ro": "Transilvania",
+    "en": "Transylvania",
+    "de": "Siebenbürgen"
+  },
+
+  "location": {
+    "latitude": 45.6427,
+    "longitude": 25.5887
+  },
+
+  "timezone": "Europe/Bucharest",
+
+  "hero": {
+    "image": "cover.webp",
+
+    "eyebrow": {
+      "ro": "DESCOPERĂ BRAȘOVUL",
+      "en": "DISCOVER BRAȘOV",
+      "de": "BRAȘOV ENTDECKEN"
+    },
+
+    "title": {
+      "ro": "Descoperă Brașovul",
+      "en": "Discover Brașov",
+      "de": "Entdecke Brașov"
+    },
+
+    "subtitle": {
+      "ro": "Oraș medieval, munți, gastronomie și experiențe la doar câteva minute de cazarea ta.",
+      "en": "Medieval streets, mountains, local food and memorable experiences just minutes from your stay.",
+      "de": "Mittelalterliche Gassen, Berge, regionale Küche und besondere Erlebnisse nur wenige Minuten von deiner Unterkunft entfernt."
+    }
+  },
+
+  "shortDescription": {
+    "ro": "Brașovul combină unul dintre cele mai frumoase centre istorice din România cu acces rapid către munți, castele, sate transilvănene și numeroase activități în aer liber.",
+    "en": "Brașov combines one of Romania's most beautiful historic centres with easy access to mountains, castles, Transylvanian villages and a wide range of outdoor experiences.",
+    "de": "Brașov verbindet eine der schönsten historischen Altstädte Rumäniens mit schnellem Zugang zu Bergen, Schlössern, siebenbürgischen Dörfern und zahlreichen Outdoor-Erlebnissen."
+  },
+
+  "description": {
+    "ro": "Brașov este unul dintre cele mai atractive orașe turistice din România și un punct excelent de plecare pentru explorarea Transilvaniei. Centrul istoric poate fi descoperit ușor la pas, cu Piața Sfatului, Biserica Neagră, străzi pietonale, cafenele și clădiri istorice aflate la distanțe mici unele de altele. Deasupra orașului se ridică Tâmpa, iar la doar câțiva kilometri se află Poiana Brașov. Din Brașov se poate ajunge ușor către Castelul Bran, Sanctuarul Libearty, Castelul Peleș și numeroase biserici fortificate și sate istorice din Țara Bârsei.",
+    "en": "Brașov is one of Romania's most attractive tourist cities and an excellent base for exploring Transylvania. Its historic centre is easy to discover on foot, with Council Square, the Black Church, pedestrian streets, cafés and historic buildings located close to one another. Tâmpa Mountain rises directly above the city, while Poiana Brașov is only a short distance away. Brașov also offers convenient access to Bran Castle, the Libearty Bear Sanctuary, Peleș Castle and many fortified churches and historic villages throughout the Burzenland region.",
+    "de": "Brașov gehört zu den attraktivsten Reisezielen Rumäniens und ist ein idealer Ausgangspunkt zur Erkundung Siebenbürgens. Die historische Altstadt lässt sich bequem zu Fuß entdecken: Rathausplatz, Schwarze Kirche, Fußgängerzonen, Cafés und historische Gebäude liegen dicht beieinander. Direkt über der Stadt erhebt sich der Tâmpa-Berg, während Poiana Brașov nur wenige Kilometer entfernt liegt. Von Brașov aus sind außerdem Schloss Bran, das Libearty-Bärenreservat, Schloss Peleș sowie zahlreiche Kirchenburgen und historische Dörfer des Burzenlandes gut erreichbar."
+  },
+
+  "images": [
+    "cover.webp",
+    "image_01.webp",
+    "image_02.webp"
+  ],
+
+  "weather": {
+    "enabled": true,
+
+    "location": {
+      "latitude": 45.6427,
+      "longitude": 25.5887
+    },
+
+    "currentWeather": true,
+    "feelsLike": true,
+    "forecastDays": 7,
+
+    "units": {
+      "temperature": "celsius",
+      "windSpeed": "kmh",
+      "precipitation": "mm"
+    }
+  },
+
+  "quickTips": [
+    {
+      "id": "walk-old-town",
+
+      "icon": "walking",
+
+      "title": {
+        "ro": "Explorează centrul pe jos",
+        "en": "Explore the Old Town on foot",
+        "de": "Altstadt zu Fuß entdecken"
+      },
+
+      "text": {
+        "ro": "Majoritatea atracțiilor din centrul istoric sunt apropiate și pot fi descoperite ușor la pas.",
+        "en": "Most attractions in the historic centre are close together and easy to explore on foot.",
+        "de": "Die meisten Sehenswürdigkeiten der Altstadt liegen nah beieinander und lassen sich bequem zu Fuß erkunden."
+      }
+    },
+
+    {
+      "id": "parking",
+
+      "icon": "parking",
+
+      "title": {
+        "ro": "Parcare în centrul istoric",
+        "en": "Parking in the historic centre",
+        "de": "Parken in der Altstadt"
+      },
+
+      "text": {
+        "ro": "Locurile de parcare din zona centrală pot fi limitate și multe sunt cu plată. Pentru centrul vechi, mersul pe jos este adesea cea mai simplă variantă.",
+        "en": "Parking spaces in the central area can be limited and many are paid. Walking is often the easiest way to explore the Old Town.",
+        "de": "Parkplätze im Zentrum können begrenzt sein und viele sind gebührenpflichtig. Für die Altstadt ist ein Spaziergang oft die einfachste Lösung."
+      }
+    },
+
+    {
+      "id": "mountain-weather",
+
+      "icon": "weather",
+
+      "title": {
+        "ro": "Vreme de munte",
+        "en": "Mountain weather",
+        "de": "Bergwetter"
+      },
+
+      "text": {
+        "ro": "Vremea se poate schimba rapid, mai ales dacă mergi spre Tâmpa, Poiana Brașov sau zonele montane din jur.",
+        "en": "Weather can change quickly, especially when heading towards Tâmpa, Poiana Brașov or the surrounding mountain areas.",
+        "de": "Das Wetter kann sich schnell ändern, besonders auf dem Tâmpa, in Poiana Brașov und in den umliegenden Bergregionen."
+      }
+    },
+
+    {
+      "id": "poiana-brasov",
+
+      "icon": "mountain",
+
+      "title": {
+        "ro": "Poiana Brașov",
+        "en": "Poiana Brașov",
+        "de": "Poiana Brașov"
+      },
+
+      "text": {
+        "ro": "Poiana Brașov este aproape de oraș și merită vizitată atât iarna, cât și vara pentru peisaje, plimbări și activități montane.",
+        "en": "Poiana Brașov is close to the city and is worth visiting in both winter and summer for scenery, walks and mountain activities.",
+        "de": "Poiana Brașov liegt nahe der Stadt und ist im Winter wie im Sommer wegen der Landschaft, Spazierwege und Bergaktivitäten einen Besuch wert."
+      }
+    }
+  ],
+
+  "exploreSections": [
+    {
+      "id": "restaurants",
+      "dataSource": "restaurants/index.json",
+      "enabled": true
+    },
+    {
+      "id": "places",
+      "dataSource": "places/index.json",
+      "enabled": true
+    },
+    {
+      "id": "activities",
+      "dataSource": "activities/index.json",
+      "enabled": true
+    },
+    {
+      "id": "top-destinations",
+      "dataSource": "top-destinations/index.json",
+      "enabled": true
+    },
+    {
+      "id": "guest-services",
+      "dataSource": "guest-services/index.json",
+      "enabled": true
+    }
+  ],
+
+  "active": true
+}
