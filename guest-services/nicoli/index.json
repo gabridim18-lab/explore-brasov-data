@@ -1,1 +1,151 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-13",
 
+  "items": [
+    {
+      "id": "airport-transfer",
+      "slug": "airport-transfer",
+
+      "name": {
+        "ro": "Transfer aeroport",
+        "en": "Airport Transfer",
+        "de": "Flughafentransfer"
+      },
+
+      "category": "airport_transfer",
+      "cover": "airport-transfer/cover.webp",
+
+      "requestEnabled": true,
+
+      "featured": true,
+      "active": true
+    },
+
+    {
+      "id": "custom-transport",
+      "slug": "custom-transport",
+
+      "name": {
+        "ro": "Transport către orice destinație",
+        "en": "Transport to Any Destination",
+        "de": "Fahrt zu jedem Reiseziel"
+      },
+
+      "category": "custom_transport",
+      "cover": "custom-transport/cover.webp",
+
+      "requestEnabled": true,
+
+      "featured": true,
+      "active": true
+    },
+
+    {
+      "id": "auto-rent-brasov",
+      "slug": "auto-rent-brasov",
+
+      "name": {
+        "ro": "AUTO RENT BRASOV",
+        "en": "AUTO RENT BRASOV",
+        "de": "AUTO RENT BRASOV"
+      },
+
+      "category": "rent_a_car",
+      "cover": "auto-rent-brasov/cover.webp",
+
+      "location": {
+        "latitude": 45.6672161,
+        "longitude": 25.6191214
+      },
+
+      "rating": 4.9,
+
+      "requestEnabled": false,
+
+      "featured": true,
+      "active": true
+    },
+
+    {
+      "id": "cub-velo-hub",
+      "slug": "cub-velo-hub",
+
+      "name": {
+        "ro": "CUB Velo Hub",
+        "en": "CUB Velo Hub",
+        "de": "CUB Velo Hub"
+      },
+
+      "category": "bike_rental",
+      "cover": "cub-velo-hub/cover.webp",
+
+      "location": {
+        "latitude": 45.6602011,
+        "longitude": 25.608434
+      },
+
+      "rating": 4.7,
+
+      "requestEnabled": false,
+
+      "featured": true,
+      "active": true
+    },
+
+    {
+      "id": "blue-viking",
+      "slug": "blue-viking",
+
+      "name": {
+        "ro": "Blue Viking",
+        "en": "Blue Viking",
+        "de": "Blue Viking"
+      },
+
+      "category": "food_delivery",
+      "cover": "blue-viking/cover.webp",
+
+      "location": {
+        "latitude": 45.6585878,
+        "longitude": 25.607912
+      },
+
+      "rating": 4.0,
+
+      "nonStop": true,
+      "requestEnabled": false,
+
+      "featured": true,
+      "active": true
+    },
+
+    {
+      "id": "nicoli",
+      "slug": "nicoli",
+
+      "name": {
+        "ro": "Nicoli",
+        "en": "Nicoli",
+        "de": "Nicoli"
+      },
+
+      "category": "food_delivery",
+      "cover": "nicoli/cover.webp",
+
+      "location": {
+        "latitude": 45.64997,
+        "longitude": 25.602686
+      },
+
+      "rating": 3.9,
+
+      "nonStop": false,
+      "lateNight": true,
+      "requestEnabled": false,
+
+      "featured": true,
+      "active": true
+    }
+  ]
+}
