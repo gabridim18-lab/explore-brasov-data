@@ -1,1 +1,235 @@
+{
+  "id": "vmax-karting",
+  "slug": "vmax-karting",
 
+  "name": {
+    "ro": "VMax Karting Brașov",
+    "en": "VMax Karting Brașov",
+    "de": "VMax Karting Brașov"
+  },
+
+  "type": "activity",
+  "category": "indoor_karting",
+
+  "google": {
+    "placeId": "ChIJyeEOMXpbs0ARs7Tmah5OWS8",
+    "mapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJyeEOMXpbs0ARs7Tmah5OWS8",
+    "lastVerified": "2026-09-13"
+  },
+
+  "location": {
+    "address": "Hala H14, Strada Henri Coandă 2, Brașov 500167, România",
+    "latitude": 45.6747639,
+    "longitude": 25.6177475
+  },
+
+  "openingHours": {
+    "alwaysOpen": false,
+    "seasonal": false,
+
+    "monday": [
+      {
+        "open": "15:00",
+        "close": "23:00"
+      }
+    ],
+    "tuesday": [
+      {
+        "open": "15:00",
+        "close": "23:00"
+      }
+    ],
+    "wednesday": [
+      {
+        "open": "15:00",
+        "close": "23:00"
+      }
+    ],
+    "thursday": [
+      {
+        "open": "15:00",
+        "close": "23:00"
+      }
+    ],
+    "friday": [
+      {
+        "open": "15:00",
+        "close": "24:00"
+      }
+    ],
+    "saturday": [
+      {
+        "open": "11:00",
+        "close": "24:00"
+      }
+    ],
+    "sunday": [
+      {
+        "open": "11:00",
+        "close": "23:00"
+      }
+    ],
+
+    "periods": [],
+    "closedDates": []
+  },
+
+  "juniorOpeningHours": {
+    "monday": [
+      {
+        "open": "15:00",
+        "close": "23:00"
+      }
+    ],
+    "tuesday": [
+      {
+        "open": "15:00",
+        "close": "23:00"
+      }
+    ],
+    "wednesday": [
+      {
+        "open": "15:00",
+        "close": "23:00"
+      }
+    ],
+    "thursday": [
+      {
+        "open": "15:00",
+        "close": "23:00"
+      }
+    ],
+    "friday": [
+      {
+        "open": "15:00",
+        "close": "23:00"
+      }
+    ],
+    "saturday": [
+      {
+        "open": "11:00",
+        "close": "20:00"
+      }
+    ],
+    "sunday": [
+      {
+        "open": "11:00",
+        "close": "20:00"
+      }
+    ]
+  },
+
+  "visitInfo": {
+    "lastEntryMinutesBeforeClose": null,
+    "scheduleMayChangeForEvents": true,
+    "reservationRecommended": false,
+    "reservationRequired": false
+  },
+
+  "requirements": {
+    "juniorMinimumHeightCm": 140,
+    "adultMinimumAge": 18,
+    "safetyBriefingRequired": true
+  },
+
+  "shortDescription": {
+    "ro": "Circuit indoor de karting electric pentru adulți și juniori, cu sesiuni cronometrate, clasamente și experiențe de tip Grand Prix.",
+    "en": "Indoor electric karting circuit for adults and juniors, with timed sessions, leaderboards and Grand Prix-style experiences.",
+    "de": "Indoor-Elektrokartbahn für Erwachsene und Junioren mit Zeitrennen, Ranglisten und Grand-Prix-Erlebnissen."
+  },
+
+  "description": {
+    "ro": "VMax Karting Brașov este un circuit indoor de karting electric, potrivit atât pentru cei aflați la prima experiență, cât și pentru pasionații de competiție. Înaintea cursei participanții primesc instructaj privind pilotajul și regulile de siguranță, iar după sesiune își pot verifica timpii și poziția în clasament. Sunt disponibile sesiuni pentru adulți și juniori, precum și experiențe și pachete de tip Grand Prix pentru grupuri. Juniorii trebuie să îndeplinească cerința minimă de înălțime, iar programul lor diferă în anumite zile de cel destinat adulților.",
+    "en": "VMax Karting Brașov is an indoor electric karting circuit suitable for both first-time drivers and competitive karting enthusiasts. Before racing, participants receive a driving and safety briefing, while lap times and leaderboard positions can be checked after the session. Adult and junior sessions are available, together with Grand Prix-style experiences and packages for groups. Junior drivers must meet the minimum height requirement, and their operating hours differ from the adult schedule on certain days.",
+    "de": "VMax Karting Brașov ist eine Indoor-Elektrokartbahn für Einsteiger ebenso wie für motorsportbegeisterte Fahrer. Vor dem Rennen erhalten die Teilnehmer eine Einweisung in Fahrtechnik und Sicherheitsregeln. Nach der Session können Rundenzeiten und Platzierungen in der Rangliste überprüft werden. Es gibt Sessions für Erwachsene und Junioren sowie Grand-Prix-Erlebnisse und Gruppenpakete. Für Junioren gilt eine Mindestgröße, und ihre Fahrzeiten unterscheiden sich an bestimmten Tagen vom Erwachsenenprogramm."
+  },
+
+  "images": [
+    "cover.webp",
+    "image_01.webp",
+    "image_02.webp"
+  ],
+
+  "priceLevel": null,
+
+  "entryFee": {
+    "currency": "RON",
+    "adult": null,
+    "child": null,
+    "student": null,
+    "family": null,
+    "senior": null
+  },
+
+  "pricing": {
+    "lastVerified": "2026-09-13",
+    "packages": []
+  },
+
+  "rating": 4.5,
+  "reviewCount": 728,
+
+  "activity": {
+    "indoor": true,
+    "outdoor": false,
+    "familyFriendly": true,
+    "goodForChildren": true,
+    "goodForGroups": true,
+    "couples": true,
+    "adventure": true,
+    "relaxation": false,
+    "rainyDay": true,
+    "winter": true,
+    "summer": true
+  },
+
+  "services": {
+    "bookingAvailable": true,
+    "ticketsAvailable": true,
+    "equipmentRental": true,
+    "instructorAvailable": true,
+    "foodAvailable": true
+  },
+
+  "facilities": {
+    "restroom": null,
+    "wifi": null,
+    "locker": null,
+    "changingRoom": null,
+    "shower": null
+  },
+
+  "parking": {
+    "available": null,
+    "freeParkingLot": null,
+    "paidParkingLot": null,
+    "streetParking": null
+  },
+
+  "accessibility": {
+    "wheelchairEntrance": null,
+    "wheelchairParking": null,
+    "wheelchairRestroom": null
+  },
+
+  "website": "https://vmaxbrasov.ro/",
+
+  "tags": [
+    "karting",
+    "electric_karting",
+    "indoor",
+    "adventure",
+    "adrenaline",
+    "family_friendly",
+    "junior",
+    "groups",
+    "rainy_day",
+    "winter",
+    "summer",
+    "grand_prix"
+  ],
+
+  "partner": false,
+  "featured": false,
+  "active": true
+}
