@@ -1,271 +1,138 @@
 {
-  "id": "four-fortifications-day-tour",
-  "slug": "four-fortifications-day-tour",
+  "version": 1,
+  "updatedAt": "2026-09-13",
 
-  "name": {
-    "ro": "Circuit de o zi – 4 fortificații",
-    "en": "One-Day Circuit – Four Fortifications",
-    "de": "Tagestour – Vier Wehranlagen"
-  },
-
-  "type": "day_tour",
-  "category": "cultural_day_tour",
-
-  "location": {
-    "start": "Brașov",
-    "end": "Brașov"
-  },
-
-  "tourInfo": {
-    "estimatedDurationHours": 6.5,
-    "recommendedDepartureTime": "09:00",
-
-    "availableDays": [
-      "tuesday",
-      "wednesday",
-      "thursday",
-      "friday",
-      "saturday",
-      "sunday"
-    ],
-
-    "numberOfStops": 4,
-    "privateTransport": true,
-    "guideIncluded": false,
-    "entryTicketsIncluded": false,
-    "entryTicketsPaidSeparately": true,
-    "scheduleMayChange": true
-  },
-
-  "shortDescription": {
-    "ro": "Circuit cultural de o zi prin patru dintre cele mai interesante fortificații ale Țării Bârsei: Prejmer, Hărman, Sânpetru și Cetatea Feldioara.",
-    "en": "A one-day cultural circuit through four remarkable fortifications of the Burzenland region: Prejmer, Hărman, Sânpetru and Feldioara Fortress.",
-    "de": "Eine kulturelle Tagestour zu vier bemerkenswerten Wehranlagen des Burzenlandes: Prejmer, Hărman, Sânpetru und der Marienburg in Feldioara."
-  },
-
-  "description": {
-    "ro": "Circuitul de o zi – 4 fortificații este o excursie culturală dedicată patrimoniului medieval și săsesc din jurul Brașovului. Traseul pornește din Brașov și include Biserica Fortificată din Prejmer, una dintre cele mai impresionante fortificații săsești din Transilvania și parte a patrimoniului mondial UNESCO, apoi Biserica Fortificată din Hărman, Biserica Fortificată din Sânpetru și Cetatea Feldioara. Cele patru opriri oferă perspective diferite asupra istoriei Țării Bârsei, de la biserici fortificate și ziduri defensive până la turnuri, spații de refugiu și cetatea asociată tradiției cavalerilor teutoni. Circuitul este gândit ca o excursie privată de aproximativ șase până la șapte ore, cu plecare și întoarcere în Brașov. Biletele de intrare nu sunt incluse în transport și se achită separat la fiecare obiectiv.",
-    "en": "The One-Day Circuit – Four Fortifications is a cultural trip dedicated to the medieval and Saxon heritage surrounding Brașov. Starting and ending in Brașov, the route visits the Fortified Church of Prejmer, one of Transylvania's most impressive Saxon fortifications and part of a UNESCO World Heritage property, followed by the fortified churches of Hărman and Sânpetru and Feldioara Fortress. Each stop reveals a different side of the Burzenland's history, from fortified churches and defensive walls to towers, refuge spaces and a fortress associated with the region's Teutonic heritage. The circuit is designed as a private excursion lasting approximately six to seven hours. Admission tickets are not included in the transport service and are paid separately at each attraction.",
-    "de": "Die Tagestour – Vier Wehranlagen widmet sich dem mittelalterlichen und siebenbürgisch-sächsischen Erbe rund um Brașov. Die Rundfahrt beginnt und endet in Brașov und führt zunächst zur Kirchenburg Prejmer, einer der beeindruckendsten sächsischen Wehranlagen Siebenbürgens und Teil einer UNESCO-Welterbestätte. Weitere Stationen sind die Kirchenburgen Hărman und Sânpetru sowie die Marienburg in Feldioara. Jede Station zeigt einen anderen Aspekt der Geschichte des Burzenlandes – von Wehrkirchen und Verteidigungsmauern bis zu Türmen, Schutzräumen und dem mit der Tradition des Deutschen Ordens verbundenen Feldioara. Die private Rundfahrt ist für ungefähr sechs bis sieben Stunden vorgesehen. Eintrittskarten sind nicht im Transport enthalten und werden an den einzelnen Sehenswürdigkeiten separat bezahlt."
-  },
-
-  "images": [
-    "cover.webp",
-    "image_01.webp",
-    "image_02.webp"
-  ],
-
-  "stops": [
+  "items": [
     {
-      "order": 1,
-
-      "id": "prejmer-fortified-church",
+      "id": "bran-castle",
+      "slug": "bran-castle",
 
       "name": {
-        "ro": "Biserica Fortificată din Prejmer",
-        "en": "Prejmer Fortified Church",
-        "de": "Kirchenburg Tartlau"
+        "ro": "Castelul Bran",
+        "en": "Bran Castle",
+        "de": "Schloss Bran"
       },
 
-      "category": "fortified_church",
+      "category": "castle",
 
-      "google": {
-        "placeId": "ChIJ3W_er4xfs0ARpKDiyD0FTJg",
-        "mapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3W_er4xfs0ARpKDiyD0FTJg"
-      },
+      "cover": "bran-castle/cover.webp",
 
       "location": {
-        "address": "Strada Mare 2, 507165 Prejmer, România",
-        "latitude": 45.7220793,
-        "longitude": 25.7734555
+        "latitude": 45.5149022,
+        "longitude": 25.3671637
       },
 
-      "suggestedVisitMinutes": 60,
+      "distanceFromBrasov": {
+        "approxKm": 30,
+        "approxDrivingMinutes": 35
+      },
 
-      "highlights": [
-        "unesco",
-        "fortified_church",
-        "medieval",
-        "saxon_heritage"
-      ],
+      "rating": 4.3,
 
-      "rating": 4.7
+      "transportRequestEnabled": true,
+
+      "featured": true,
+      "active": true
     },
 
     {
-      "order": 2,
-
-      "id": "harman-fortified-church",
+      "id": "libearty-bear-sanctuary",
+      "slug": "libearty-bear-sanctuary",
 
       "name": {
-        "ro": "Biserica Evanghelică Fortificată din Hărman",
-        "en": "Hărman Evangelical Fortified Church",
-        "de": "Kirchenburg Honigberg"
+        "ro": "Sanctuarul Libearty Zărnești",
+        "en": "Libearty Bear Sanctuary Zărnești",
+        "de": "Libearty Bärenreservat Zărnești"
       },
 
-      "category": "fortified_church",
+      "category": "wildlife_sanctuary",
 
-      "google": {
-        "placeId": "ChIJBznKBC9fs0ARq5VPpsJcDOg",
-        "mapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJBznKBC9fs0ARq5VPpsJcDOg"
-      },
+      "cover": "libearty-bear-sanctuary/cover.webp",
 
       "location": {
-        "address": "Strada Pieței 2, 507085 Hărman, România",
-        "latitude": 45.71552,
-        "longitude": 25.68499
+        "latitude": 45.5931875,
+        "longitude": 25.3853124
       },
 
-      "suggestedVisitMinutes": 45,
+      "distanceFromBrasov": {
+        "approxKm": 30,
+        "approxDrivingMinutes": 45
+      },
 
-      "highlights": [
-        "fortified_church",
-        "defensive_towers",
-        "medieval",
-        "saxon_heritage"
-      ],
+      "rating": 4.6,
 
-      "rating": 4.8
+      "transportRequestEnabled": true,
+
+      "featured": true,
+      "active": true
     },
 
     {
-      "order": 3,
-
-      "id": "sanpetru-fortified-church",
+      "id": "peles-castle",
+      "slug": "peles-castle",
 
       "name": {
-        "ro": "Biserica Fortificată din Sânpetru",
-        "en": "Sânpetru Fortified Church",
-        "de": "Kirchenburg Petersberg"
+        "ro": "Castelul Peleș",
+        "en": "Peleș Castle",
+        "de": "Schloss Peleș"
       },
 
-      "category": "fortified_church",
+      "category": "castle",
 
-      "google": {
-        "placeId": "ChIJk2k93YxZs0AREP7zAMVg3rM",
-        "mapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJk2k93YxZs0AREP7zAMVg3rM"
-      },
+      "cover": "peles-castle/cover.webp",
 
       "location": {
-        "address": "Strada Republicii 640-642A, 507190 Sânpetru, România",
-        "latitude": 45.7118912,
-        "longitude": 25.6335773
+        "latitude": 45.3599816,
+        "longitude": 25.5426423
       },
 
-      "suggestedVisitMinutes": 40,
+      "distanceFromBrasov": {
+        "approxKm": 45,
+        "approxDrivingMinutes": 48
+      },
 
-      "highlights": [
-        "fortified_church",
-        "saxon_heritage",
-        "defensive_walls",
-        "historic_architecture"
-      ],
+      "rating": 4.7,
 
-      "rating": 4.3
+      "transportRequestEnabled": true,
+
+      "featured": true,
+      "active": true
     },
 
     {
-      "order": 4,
-
-      "id": "feldioara-fortress",
+      "id": "four-fortifications-day-tour",
+      "slug": "four-fortifications-day-tour",
 
       "name": {
-        "ro": "Cetatea Feldioara",
-        "en": "Feldioara Fortress",
-        "de": "Marienburg Feldioara"
+        "ro": "Circuit de o zi – 4 fortificații",
+        "en": "One-Day Circuit – Four Fortifications",
+        "de": "Tagestour – Vier Wehranlagen"
       },
 
-      "category": "fortress",
+      "category": "cultural_day_tour",
 
-      "google": {
-        "placeId": "ChIJqVhSw-2otEARJe4qV1TuHGg",
-        "mapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJqVhSw-2otEARJe4qV1TuHGg"
+      "cover": "four-fortifications-day-tour/cover.webp",
+
+      "tourInfo": {
+        "numberOfStops": 4,
+        "estimatedDurationHours": 6.5,
+        "start": "Brașov",
+        "end": "Brașov"
       },
 
-      "location": {
-        "address": "Feldioara 507065, județul Brașov, România",
-        "latitude": 45.820251,
-        "longitude": 25.606292
-      },
-
-      "suggestedVisitMinutes": 60,
-
-      "highlights": [
-        "fortress",
-        "teutonic_history",
-        "medieval",
-        "panoramic_view"
+      "stops": [
+        "prejmer-fortified-church",
+        "harman-fortified-church",
+        "sanpetru-fortified-church",
+        "feldioara-fortress"
       ],
 
-      "rating": 4.7
+      "rating": null,
+
+      "transportRequestEnabled": true,
+
+      "featured": true,
+      "active": true
     }
-  ],
-
-  "pricing": {
-    "currency": "RON",
-    "fixedPricePerVehicle": null,
-    "maximumPassengers": null,
-    "includesWaitingTime": null,
-    "entryTicketsIncluded": false,
-    "lastVerified": ""
-  },
-
-  "transportRequest": {
-    "enabled": true,
-
-    "providerIds": [
-      "transport-01",
-      "transport-02"
-    ],
-
-    "dispatchMode": "primary_then_fallback",
-
-    "buttonLabel": {
-      "ro": "Comandă circuitul",
-      "en": "Request this tour",
-      "de": "Tour anfragen"
-    },
-
-    "form": {
-      "destinationLocked": true,
-
-      "fields": [
-        "date",
-        "time",
-        "passengers",
-        "pickup",
-        "notes"
-      ]
-    },
-
-    "messageTemplate": {
-      "ro": "Bună ziua! Doresc Circuitul de o zi – 4 fortificații în data de {date}, cu plecare la ora {time}, pentru {passengers} persoane. Preluare: {pickup}. {notes}",
-      "en": "Hello! I would like to book the One-Day Circuit – Four Fortifications on {date}, departing at {time}, for {passengers} people. Pickup: {pickup}. {notes}",
-      "de": "Guten Tag! Ich möchte die Tagestour – Vier Wehranlagen am {date} mit Abfahrt um {time} für {passengers} Personen buchen. Abholung: {pickup}. {notes}"
-    }
-  },
-
-  "importantInfo": {
-    "ro": "Ordinea opririlor poate fi modificată în funcție de ziua vizitei, programul bisericilor, slujbe religioase sau evenimente speciale.",
-    "en": "The order of the stops may change depending on the day of the visit, church opening hours, religious services or special events.",
-    "de": "Die Reihenfolge der Stationen kann je nach Besuchstag, Öffnungszeiten der Kirchen, Gottesdiensten oder besonderen Veranstaltungen geändert werden."
-  },
-
-  "tags": [
-    "day_tour",
-    "four_fortifications",
-    "fortified_churches",
-    "castles",
-    "history",
-    "medieval",
-    "saxon_heritage",
-    "unesco",
-    "transylvania",
-    "burzenland",
-    "private_transport",
-    "top_destination"
-  ],
-
-  "featured": true,
-  "active": true
+  ]
 }
