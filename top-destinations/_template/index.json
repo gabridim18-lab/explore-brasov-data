@@ -1,1 +1,114 @@
+{
+  "id": "destination-slug",
+  "slug": "destination-slug",
 
+  "name": {
+    "ro": "Nume destinație",
+    "en": "Destination Name",
+    "de": "Name des Ausflugsziels"
+  },
+
+  "type": "top_destination",
+  "category": "attraction",
+
+  "google": {
+    "placeId": "",
+    "mapsUrl": "",
+    "lastVerified": ""
+  },
+
+  "location": {
+    "address": "",
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+
+  "distanceFromBrasov": {
+    "approxKm": null,
+    "approxDrivingMinutes": null
+  },
+
+  "openingHours": {
+    "seasonal": null,
+    "periods": []
+  },
+
+  "shortDescription": {
+    "ro": "",
+    "en": "",
+    "de": ""
+  },
+
+  "description": {
+    "ro": "",
+    "en": "",
+    "de": ""
+  },
+
+  "images": [
+    "cover.webp",
+    "image_01.webp",
+    "image_02.webp"
+  ],
+
+  "ticketInfo": {
+    "currency": "RON",
+    "lastVerified": "",
+    "standard": {
+      "adult": null,
+      "senior": null,
+      "student": null,
+      "child": null,
+      "childAgeMin": null,
+      "childAgeMax": null,
+      "freeUnderAge": null
+    }
+  },
+
+  "rating": null,
+  "reviewCount": null,
+
+  "website": "",
+
+  "transportRequest": {
+    "enabled": false,
+
+    "providerIds": [],
+
+    "dispatchMode": "primary_then_fallback",
+
+    "buttonLabel": {
+      "ro": "Comandă o cursă",
+      "en": "Request a ride",
+      "de": "Fahrt anfragen"
+    },
+
+    "form": {
+      "destinationLocked": true,
+      "fields": [
+        "date",
+        "time",
+        "passengers",
+        "pickup",
+        "notes"
+      ]
+    },
+
+    "pricing": {
+      "currency": "RON",
+      "oneWay": null,
+      "roundTrip": null
+    },
+
+    "messageTemplate": {
+      "ro": "Bună ziua! Doresc o cursă către {destination} în data de {date}, la ora {time}, pentru {passengers} persoane. Preluare: {pickup}. {notes}",
+      "en": "Hello! I would like a ride to {destination} on {date} at {time} for {passengers} people. Pickup: {pickup}. {notes}",
+      "de": "Guten Tag! Ich möchte am {date} um {time} eine Fahrt nach {destination} für {passengers} Personen buchen. Abholung: {pickup}. {notes}"
+    }
+  },
+
+  "tags": [],
+
+  "featured": false,
+  "active": true
+}
