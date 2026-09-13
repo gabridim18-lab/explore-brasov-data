@@ -1,1 +1,38 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-13",
 
+  "items": [
+    {
+      "id": "bran-castle",
+      "slug": "bran-castle",
+
+      "name": {
+        "ro": "Castelul Bran",
+        "en": "Bran Castle",
+        "de": "Schloss Bran"
+      },
+
+      "category": "castle",
+
+      "cover": "bran-castle/cover.webp",
+
+      "location": {
+        "latitude": 45.5149022,
+        "longitude": 25.3671637
+      },
+
+      "distanceFromBrasov": {
+        "approxKm": 30,
+        "approxDrivingMinutes": 35
+      },
+
+      "rating": 4.3,
+
+      "transportRequestEnabled": true,
+
+      "featured": true,
+      "active": true
+    }
+  ]
+}
