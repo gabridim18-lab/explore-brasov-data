@@ -1,1 +1,23 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-13",
 
+  "providers": [
+    {
+      "id": "transport-01",
+      "name": "Transport 01",
+      "phone": "+40755687296",
+      "whatsapp": "+40755687296",
+      "priority": 1,
+      "active": true
+    },
+    {
+      "id": "transport-02",
+      "name": "Transport 02",
+      "phone": "+40750268867",
+      "whatsapp": "+40750268867",
+      "priority": 2,
+      "active": true
+    }
+  ]
+}
