@@ -53,7 +53,9 @@
     "lastEntryMinutesBeforeClose": null,
     "scheduleMayChangeForEvents": null,
     "reservationRecommended": null,
-    "reservationRequired": null
+    "reservationRequired": null,
+    "reservationLeadTimeHours": null,
+    "weatherDependent": null
   },
 
   "session": {
@@ -128,8 +130,10 @@
     "bookingAvailable": null,
     "ticketsAvailable": null,
     "equipmentRental": null,
+    "equipmentIncluded": null,
     "instructorAvailable": null,
-    "foodAvailable": null
+    "foodAvailable": null,
+    "photoVideoIncluded": null
   },
 
   "facilities": {
