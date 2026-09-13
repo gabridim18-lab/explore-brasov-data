@@ -1,1 +1,190 @@
+{
+  "id": "peles-castle",
+  "slug": "peles-castle",
 
+  "name": {
+    "ro": "Castelul Peleș",
+    "en": "Peleș Castle",
+    "de": "Schloss Peleș"
+  },
+
+  "type": "top_destination",
+  "category": "castle",
+
+  "google": {
+    "placeId": "ChIJbVXg0uwWs0ARrdXzlKVjbpo",
+    "mapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJbVXg0uwWs0ARrdXzlKVjbpo",
+    "lastVerified": "2026-09-13"
+  },
+
+  "location": {
+    "address": "Aleea Peleșului 2, 106100 Sinaia, Prahova, România",
+    "latitude": 45.3599816,
+    "longitude": 25.5426423
+  },
+
+  "distanceFromBrasov": {
+    "approxKm": 45,
+    "approxDrivingMinutes": 48
+  },
+
+  "openingHours": {
+    "seasonal": false,
+
+    "monday": [],
+    "tuesday": [],
+
+    "wednesday": [
+      {
+        "open": "10:00",
+        "close": "17:00"
+      }
+    ],
+
+    "thursday": [
+      {
+        "open": "09:15",
+        "close": "17:00"
+      }
+    ],
+
+    "friday": [
+      {
+        "open": "09:15",
+        "close": "17:00"
+      }
+    ],
+
+    "saturday": [
+      {
+        "open": "09:15",
+        "close": "17:00"
+      }
+    ],
+
+    "sunday": [
+      {
+        "open": "09:15",
+        "close": "17:00"
+      }
+    ],
+
+    "closedPeriods": [
+      {
+        "from": "2026-11-02",
+        "to": "2026-12-01",
+        "reason": {
+          "ro": "Curățenie generală și conservare preventivă",
+          "en": "General cleaning and preventive conservation",
+          "de": "Grundreinigung und vorbeugende Konservierung"
+        }
+      }
+    ]
+  },
+
+  "visitInfo": {
+    "lastEntry": "16:00",
+    "onlineTicketsAvailable": true,
+    "timedEntry": true,
+    "guidedToursAvailable": true,
+    "guidedTourIncluded": true,
+    "advanceBookingRecommended": true,
+
+    "walkFromParkingMeters": 800,
+    "walkFromParkingMinutes": 15,
+    "uphillWalk": true
+  },
+
+  "shortDescription": {
+    "ro": "Fosta reședință regală din Sinaia, unul dintre cele mai spectaculoase castele din România, renumit pentru arhitectură, interioare și colecțiile sale istorice.",
+    "en": "The former royal residence in Sinaia, one of Romania's most spectacular castles, renowned for its architecture, interiors and historic collections.",
+    "de": "Die ehemalige königliche Residenz in Sinaia und eines der eindrucksvollsten Schlösser Rumäniens, bekannt für Architektur, Innenräume und historische Sammlungen."
+  },
+
+  "description": {
+    "ro": "Castelul Peleș din Sinaia a fost construit la inițiativa regelui Carol I și a servit drept reședință de vară a familiei regale a României. Amplasat într-un spectaculos peisaj montan la poalele Bucegilor, castelul impresionează prin arhitectura sa elaborată, decorațiunile din lemn sculptat, colecțiile de artă, arme, mobilier și obiecte decorative. Vizita include parterul și primul etaj și poate fi realizată individual sau în cadrul tururilor ghidate organizate de muzeu. Castelul este una dintre cele mai populare excursii de o zi din Brașov și poate fi combinat cu o plimbare prin Sinaia sau cu vizitarea Castelului Pelișor. De la zona de parcare până la castel se parcurg aproximativ 800 de metri pe jos, pe o alee în pantă.",
+    "en": "Peleș Castle in Sinaia was built at the initiative of King Carol I and served as a summer residence of Romania's royal family. Set in a spectacular mountain landscape at the foot of the Bucegi Mountains, the castle is renowned for its elaborate architecture, carved wood interiors and collections of art, weapons, furniture and decorative objects. The standard visit includes the ground floor and first floor and can be completed independently or as part of the museum's guided tours. Peleș is one of the most popular day trips from Brașov and can easily be combined with a walk through Sinaia or a visit to nearby Pelișor Castle. Visitors should expect an approximately 800-metre uphill walk from the parking area to the castle.",
+    "de": "Schloss Peleș in Sinaia wurde auf Initiative von König Carol I. erbaut und diente der rumänischen Königsfamilie als Sommerresidenz. In einer eindrucksvollen Berglandschaft am Fuße des Bucegi-Gebirges gelegen, ist das Schloss für seine aufwendige Architektur, geschnitzten Holzinterieurs sowie seine Kunst-, Waffen-, Möbel- und Kunsthandwerkssammlungen bekannt. Der reguläre Besuch umfasst das Erdgeschoss und den ersten Stock und ist individuell oder im Rahmen der vom Museum angebotenen Führungen möglich. Peleș gehört zu den beliebtesten Tagesausflügen von Brașov und lässt sich gut mit einem Spaziergang durch Sinaia oder einem Besuch des nahe gelegenen Schlosses Pelișor verbinden. Vom Parkplatz führt ein etwa 800 Meter langer, ansteigender Fußweg zum Schloss."
+  },
+
+  "images": [
+    "cover.webp",
+    "image_01.webp",
+    "image_02.webp"
+  ],
+
+  "ticketInfo": {
+    "currency": "RON",
+    "lastVerified": "2026-09-13",
+
+    "standard": {
+      "adult": 100,
+      "senior": 50,
+      "student": 25,
+      "pupil": 25,
+      "child": null,
+      "freeUnderAge": 7
+    }
+  },
+
+  "rating": 4.7,
+  "reviewCount": 76240,
+
+  "website": "https://peles.ro/",
+
+  "transportRequest": {
+    "enabled": true,
+
+    "providerIds": [
+      "transport-01",
+      "transport-02"
+    ],
+
+    "dispatchMode": "primary_then_fallback",
+
+    "buttonLabel": {
+      "ro": "Comandă o cursă",
+      "en": "Request a ride",
+      "de": "Fahrt anfragen"
+    },
+
+    "form": {
+      "destinationLocked": true,
+
+      "fields": [
+        "date",
+        "time",
+        "passengers",
+        "pickup",
+        "notes"
+      ]
+    },
+
+    "pricing": {
+      "currency": "RON",
+      "oneWay": null,
+      "roundTrip": null
+    },
+
+    "messageTemplate": {
+      "ro": "Bună ziua! Doresc o cursă către {destination} în data de {date}, la ora {time}, pentru {passengers} persoane. Preluare: {pickup}. {notes}",
+      "en": "Hello! I would like a ride to {destination} on {date} at {time} for {passengers} people. Pickup: {pickup}. {notes}",
+      "de": "Guten Tag! Ich möchte am {date} um {time} eine Fahrt nach {destination} für {passengers} Personen buchen. Abholung: {pickup}. {notes}"
+    }
+  },
+
+  "tags": [
+    "castle",
+    "royal_history",
+    "architecture",
+    "museum",
+    "sinaia",
+    "bucegi",
+    "day_trip",
+    "guided_tours",
+    "top_destination"
+  ],
+
+  "featured": true,
+  "active": true
+}
