@@ -79,6 +79,32 @@
       "partner": false,
       "featured": false,
       "active": true
+    },
+
+    {
+      "id": "parapanta-brasov",
+      "slug": "parapanta-brasov",
+
+      "name": {
+        "ro": "ParapantaBrasov.ro - Zbor Parapanta Poiana Brașov",
+        "en": "ParapantaBrasov.ro - Paragliding Poiana Brașov",
+        "de": "ParapantaBrasov.ro - Gleitschirmflug Poiana Brașov"
+      },
+
+      "category": "paragliding",
+
+      "cover": "parapanta-brasov/cover.webp",
+
+      "location": {
+        "latitude": 45.5917512,
+        "longitude": 25.5551812
+      },
+
+      "rating": 5.0,
+
+      "partner": false,
+      "featured": false,
+      "active": true
     }
   ]
 }
