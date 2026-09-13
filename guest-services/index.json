@@ -2,5 +2,72 @@
   "version": 1,
   "updatedAt": "2026-09-13",
 
-  "items": []
+  "items": [
+    {
+      "id": "airport-transfer",
+      "slug": "airport-transfer",
+
+      "name": {
+        "ro": "Transfer aeroport",
+        "en": "Airport Transfer",
+        "de": "Flughafentransfer"
+      },
+
+      "category": "airport_transfer",
+
+      "cover": "airport-transfer/cover.webp",
+
+      "requestEnabled": true,
+
+      "featured": true,
+      "active": true
+    },
+
+    {
+      "id": "custom-transport",
+      "slug": "custom-transport",
+
+      "name": {
+        "ro": "Transport către orice destinație",
+        "en": "Transport to Any Destination",
+        "de": "Fahrt zu jedem Reiseziel"
+      },
+
+      "category": "custom_transport",
+
+      "cover": "custom-transport/cover.webp",
+
+      "requestEnabled": true,
+
+      "featured": true,
+      "active": true
+    },
+
+    {
+      "id": "auto-rent-brasov",
+      "slug": "auto-rent-brasov",
+
+      "name": {
+        "ro": "AUTO RENT BRASOV",
+        "en": "AUTO RENT BRASOV",
+        "de": "AUTO RENT BRASOV"
+      },
+
+      "category": "rent_a_car",
+
+      "cover": "auto-rent-brasov/cover.webp",
+
+      "location": {
+        "latitude": 45.6672161,
+        "longitude": 25.6191214
+      },
+
+      "rating": 4.9,
+
+      "requestEnabled": false,
+
+      "featured": true,
+      "active": true
+    }
+  ]
 }
